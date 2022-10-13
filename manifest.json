@@ -1,0 +1,24 @@
+{
+  "name": "Ephinea Wiki Add-On",
+  "version": "0.01",
+  "description": "First objective is to add drop tables to individual quest pages.",
+	"manifest_version": 3,
+	"content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"},
+  "content_scripts": [
+   {
+     "matches": ["https://wiki.pioneer2.net/*"],
+		 "run_at": "document_idle",
+     "js": [
+			 "scripts/DropTable.js"
+		 ]
+   }
+  ],
+  "permissions": [
+	  "storage"
+	],
+  "browser_specific_settings": { 
+    "gecko": {
+      "id": "{94df1f6d-b104-4223-9563-d5514b15a3f3}"
+      }
+  }
+}
