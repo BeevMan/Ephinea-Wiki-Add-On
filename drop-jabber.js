@@ -9,7 +9,7 @@
 // Repeat the above steps for each difficulty.
 
 
-// !!! THIS CODE IS FROM THE REPOSITORY BELOW !!!
+// !!! THIS CODE IS FROM THE BELOW REPOSITORY !!!
 // https://github.com/SethClydesdale/psobb-drop-charts/blob/master/Utils/drop-grabber.js
 // removed the formatting needed for lua
 

@@ -1,4 +1,4 @@
-{
+const normal = {
 	"EPISODE 1": {
 	  "Viridia": [
 		{

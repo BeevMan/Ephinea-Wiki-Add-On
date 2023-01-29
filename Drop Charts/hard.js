@@ -1,4 +1,4 @@
-{
+const hard = {
 	"EPISODE 1": {
 	  "Viridia": [
 		{

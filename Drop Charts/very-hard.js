@@ -1,1327 +1,1273 @@
-{
+const veryHard = {
 	"EPISODE 1": {
 	  "Viridia": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Star Amplifier",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Red Saber",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Gae Bolg",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Angry Fist",
-		  "dar": 100,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Red Scorpio",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Custom Frame ver.OO",
-		  "dar": 30,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Inferno Bazooka",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Booma/\nBartle",
-		  "item": "Final Impact",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gobooma/\nBarble",
-		  "item": "Heart of Daisy Chain",
-		  "dar": 38,
-		  "rare": "0.02136"
-		},
-		{
-		  "target": "Gigobooma/\nTollaw",
-		  "item": "Agito (1975)",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dragon/\nSil Dragon",
-		  "item": "Rianov 303SNR-2",
-		  "dar": 100,
 		  "rare": "2.73438"
 		},
 		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Shouren",
-		  "dar": 55,
-		  "rare": "0.14648"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Final Impact",
-		  "dar": 25,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Heavenly/Power",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Red Sword",
-		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Evil Shark/\nVulmer",
-		  "item": "Gae Bolg",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Final Impact",
-		  "dar": 35,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Yasha",
-		  "dar": 15,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Stag Cutlery",
-		  "dar": 27,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "God/Body",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Sange",
-		  "dar": 90,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Yamato",
-		  "dar": 45,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Mahu",
-		  "dar": 45,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "L&K38 Combat",
-		  "dar": 100,
-		  "rare": "2.53906"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Dubchic/\nDubchich",
-		  "item": "Heavenly/Battle",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Final Impact",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "V101",
-		  "dar": 60,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Heaven Punisher",
-		  "dar": 55,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Viridia Card",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canane/\nCanune",
-		  "item": "DB's Shield",
-		  "dar": 35,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Ruby Bullet",
-		  "dar": 100,
-		  "rare": "4.29688"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Delsaber/\nDelsaber",
-		  "item": "Swordsman Lore",
-		  "dar": 45,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Lavis Cannon",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Luminous Field",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Luminous Field",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Bringer's Right Arm",
-		  "dar": 88,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Claw/\nClaw",
-		  "item": "Silence Claw",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Bulk/\nBulk",
-		  "item": "Sacred Cloth",
-		  "dar": 35,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Sacred Cloth",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Gae Bolg",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "La Dimenian/\nMerlan",
-		  "item": "Flame Visit",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "So Dimenian/\nDel-D",
-		  "item": "Red Scorpio",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Red Ring",
-		  "dar": 100,
-		  "rare": "0.53711"
-		}
-	  ],
-	  "Greenill": [
-		{
-		  "target": "Hildebear/\nHildelt",
-		  "item": "Star Amplifier",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Frozen Shooter",
+		  "item": "Final Impact",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Mahu",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Angry Fist",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Guard Wave",
+		  "item": "Bravace",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Cross Scar",
+		  "item": "Crush Bullet",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Inferno Bazooka",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Justy-23ST",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Stag Cutlery",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Red Handgun",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Rianov 303SNR-5",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Shouren",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.14648"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Justy-23ST",
+		  "item": "Vjaya",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "DB's Saber (3062)",
+		  "item": "Devil/Battle",
 		  "dar": 100,
 		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "God/Arm",
+		  "item": "Meteor Smash",
 		  "dar": 55,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "Justy-23ST",
+		  "item": "Stag Cutlery",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Silence Claw",
+		  "item": "Crush Bullet",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Demolition Comet",
+		  "item": "Kaladbolg",
 		  "dar": 15,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "DB's Shield",
-		  "dar": 27,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Morning Glory",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Red Dagger",
-		  "dar": 90,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Guilty Light",
-		  "dar": 45,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Elysion",
+		  "target": "Pofuilly Slime/\nPofuilly Slime",
+		  "item": "Brave Knuckle",
+		  "dar": 27,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pouilly Slime/\nPouilly Slime",
+		  "item": "God/Power",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "Final Impact",
+		  "dar": 90,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "Meteor Smash",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "Meteor Smash",
+		  "dar": 45,
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Holy Ray",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Hero/Ability",
+		  "item": "God/Body",
 		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Yasminkov 3000R",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "V101",
-		  "dar": 60,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "NUG2000-Bazooka",
-		  "dar": 55,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Justy-23ST",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Final Impact",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "S-beat's Arms",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Agito (2001)",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Brionac",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Canane/\nCanune",
-		  "item": "Kasami Bracer",
+		  "item": "Smoking Plate",
 		  "dar": 35,
 		  "rare": "0.09766"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Ruby Bullet",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Agito (1975)",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Psycho Wand",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.00095"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Red Mechgun",
+		  "item": "Custom Frame ver.OO",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Red Mechgun",
+		  "item": "Custom Frame ver.OO",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Monkey King Bar",
+		  "item": "Final Impact",
 		  "dar": 88,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Heavenly/Arms",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Cross Scar",
+		  "item": "Brionac",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Bulk/\nBulk",
+		  "item": "DB's Shield",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Bulclaw/\nBulclaw",
+		  "item": "DB's Shield",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Brionac",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "La Dimenian/\nMerlan",
+		  "item": "Vjaya",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "So Dimenian/\nDel-D",
+		  "item": "Inferno Bazooka",
+		  "dar": 35,
+		  "rare": "0.78125"
+		}
+	  ],
+	  "Greenill": [
+		{
+		  "target": "Hildebear/\nHildelt",
+		  "item": "Hildebear's Head",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hildeblue/\nHildetorr",
+		  "item": "Elysion",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Rag Rappy/\nEl Rappy",
+		  "item": "Rappy's Wing",
+		  "dar": 100,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Al Rappy/\nPal Rappy",
+		  "item": "Justy-23ST",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Savage Wolf/\nGulgus",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barbarous Wolf/\nGulgus-Gue",
+		  "item": "Photon Claw",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Booma/\nBartle",
+		  "item": "Booma's Right Arm",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gobooma/\nBarble",
+		  "item": "Gobooma's Right Arm",
+		  "dar": 38,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gigobooma/\nTollaw",
+		  "item": "Bloody Art",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dragon/\nSil Dragon",
+		  "item": "Yamato",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Grass Assassin/\nCrimson Assassin",
+		  "item": "Grass Assassin's Arms",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Blade Dance",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Hero/Ability",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Nano Dragon/\nNano Dragon",
+		  "item": "Double Saber",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Evil Shark/\nVulmer",
+		  "item": "Blade Dance",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Pal Shark/\nGovulmer",
+		  "item": "Wals-MK2",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Guil Shark/\nMelqueek",
+		  "item": "Bloody Art",
+		  "dar": 15,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pofuilly Slime/\nPofuilly Slime",
+		  "item": "Brave Knuckle",
+		  "dar": 27,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pouilly Slime/\nPouilly Slime",
+		  "item": "Cure/Paralysis",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "Magic Rock \"Moola\"",
+		  "dar": 90,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "Wals-MK2",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "Wals-MK2",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "De Rol Le/\nDal Ral Lie",
+		  "item": "Mahu",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Dubchic/\nDubchich",
+		  "item": "God/Arm",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Bulk/\nBulk",
-		  "item": "Cure/Paralysis",
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Justy-23ST",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "S-beat's Arms",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Agito (2001)",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Vol Opt/\nVol Opt ver. 2",
+		  "item": "Guilty Light",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Delsaber/\nDelsaber",
+		  "item": "Delsaber's Right Arm",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Talis",
+		  "dar": 35,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Gunner/\nDark Gunner",
+		  "item": "D-Parts ver1.01",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Death Gunner/\nDeath Gunner",
+		  "item": "D-Parts ver1.01",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Chaos Bringer/\nDark Bringer",
+		  "item": "Star Atomizer",
+		  "dar": 88,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Wals-MK2",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Claw/\nClaw",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Bulk/\nBulk",
+		  "item": "DB's Shield",
+		  "dar": 35,
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Cure/Paralysis",
+		  "item": "DB's Shield",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Red Scorpio",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Spread Needle",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "DF Field",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Red Ring",
-		  "dar": 100,
-		  "rare": "0.53711"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Skyly": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Flowen's Sword (3064)",
+		  "item": "Dragon Slayer",
 		  "dar": 85,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Red Saber",
+		  "item": "God/Arm",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Dragon Slayer",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Angry Fist",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Angel Harp",
+		  "item": "Last Survivor",
 		  "dar": 100,
-		  "rare": "4.68750"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Stag Cutlery",
+		  "item": "Flowen's Sword",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Heavenly/Arms",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Dragon Slayer",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Justy-23ST",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Sacred Guard",
+		  "item": "Gigobooma's Right Arm",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Dragon's Claw",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Red Dagger",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Guilty Light",
-		  "dar": 25,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Last Survivor",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Sange",
+		  "item": "God/HP",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Red Slicer",
+		  "item": "Double Saber",
 		  "dar": 55,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "Chain Sawd",
+		  "item": "Flowen's Sword",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Red Sword",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "God/HP",
+		  "item": "Wals-MK2",
 		  "dar": 15,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Dragon Slayer",
+		  "item": "Brave Knuckle",
 		  "dar": 27,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Demolition Comet",
+		  "item": "God/Body",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Heart of Flamberge",
+		  "item": "Dragon Slayer",
 		  "dar": 90,
-		  "rare": "0.02747"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Yamato",
+		  "item": "Last Survivor",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "DB's Shield",
+		  "item": "Last Survivor",
 		  "dar": 45,
-		  "rare": "0.48828"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Laconium Axe",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Justy-23ST",
+		  "item": "God/Arm",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Justy-23ST",
+		  "item": "Graviton Plate",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Syncesta",
+		  "item": "Dragon Slayer",
 		  "dar": 85,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Luminous Field",
+		  "item": "S-beat's Arms",
 		  "dar": 60,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "S-red's Arms",
-		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Dragon Slayer",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Asuka",
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Last Survivor",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Visk-235W",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "DB's Shield",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Rianov 303SNR-1",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Swordsman Lore",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.17090"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Psycho Wand",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.00095"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Skyly Card",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Skyly Card",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Meteor Cudgel",
+		  "item": "Dragon Slayer",
 		  "dar": 88,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Sacred Cloth",
+		  "item": "Power Material",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Silence Claw",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Bulk/\nBulk",
-		  "item": "Morning Glory",
+		  "item": "DB's Armor",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Morning Glory",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Dragon Slayer",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Bulclaw/\nBulclaw",
+		  "item": "DB's Armor",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "God/Body",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Lavis Cannon",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Red Ring",
-		  "dar": 100,
-		  "rare": "0.53711"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Bluefull": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Elysion",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Heaven Punisher",
+		  "item": "Hildeblue's Head",
 		  "dar": 100,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Gae Bolg",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Angry Fist",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "HP/Revival",
+		  "item": "Elysion",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Alive Aqhu",
+		  "item": "Battle Verge",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Imperial Pick",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Gae Bolg",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Guilty Light",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Agito (1975)",
+		  "item": "Branch of Pakupaku",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Holy Ray",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Red Partisan",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Gae Bolg",
-		  "dar": 25,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Kaladbolg",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Demolition Comet",
+		  "item": "Cure/Confuse",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Kasami Bracer",
+		  "item": "Vjaya",
 		  "dar": 55,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
 		  "item": "Vjaya",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Branch of Pakupaku",
+		  "item": "Battle Verge",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Cure/Confuse",
+		  "item": "Stag Cutlery",
 		  "dar": 15,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Stag Cutlery",
+		  "item": "Angry Fist",
 		  "dar": 27,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Caduceus",
+		  "item": "HP/Revival",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "P-arm's Arms",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 90,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Gae Bolg",
+		  "item": "Vjaya",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Mahu",
+		  "item": "Vjaya",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Asteron Belt",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Yamato",
+		  "item": "Devil/Battle",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Vjaya",
+		  "item": "Proto Regene Gear",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Silence Claw",
+		  "item": "Gae Bolg",
 		  "dar": 85,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Magic Rock \"Moola\"",
+		  "item": "S-beat's Arms",
 		  "dar": 60,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Lavis Cannon",
-		  "dar": 55,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Alive Aqhu",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Sacred Guard",
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "AddSlot",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Brave Hammer",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Rianov 303SNR-3",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Morning Glory",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Sorcerer's Right Arm",
+		  "item": "Mahu",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Red Slicer",
+		  "item": "Custom Frame ver.OO",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Red Slicer",
+		  "item": "Custom Frame ver.OO",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Monkey King Bar",
+		  "item": "Gae Bolg",
 		  "dar": 88,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Book of Hitogata",
+		  "item": "Brave Hammer",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Gae Bolg",
+		  "item": "Brave Hammer",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Bulk/\nBulk",
-		  "item": "Heavenly/Battle",
+		  "item": "D-Parts ver2.10",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Heavenly/Battle",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "DB's Saber (3069 Chris)",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Bulclaw/\nBulclaw",
+		  "item": "D-Parts ver2.10",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Gae Bolg",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Guardianna",
+		  "item": "Gae Bolg",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Heaven Striker",
+		  "item": "Caduceus",
 		  "dar": 35,
-		  "rare": "0.04883"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "DF Shield",
-		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Purplenum": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Elysion",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Frozen Shooter",
+		  "item": "Hildeblue's Head",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Cross Scar",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Red Handgun",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Sacred Cloth",
+		  "item": "Elysion",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "L&K14 Combat",
+		  "item": "Blade Dance",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Heavenly/Arms",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "L&K14 Combat",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Inferno Bazooka",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Lavis Cannon",
+		  "item": "Branch of Pakupaku",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Dragon's Claw",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Smoking Plate",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "L&K14 Combat",
+		  "item": "M&A60 Vise",
 		  "dar": 25,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Psycho Wand",
+		  "item": "God/Mind",
 		  "dar": 100,
-		  "rare": "0.48828"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Purplenum Card",
+		  "item": "AddSlot",
 		  "dar": 55,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "M&A60 Vise",
+		  "item": "Varista",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Guilty Light",
+		  "item": "H&S25 Justice",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Branch of Pakupaku",
+		  "item": "Stag Cutlery",
 		  "dar": 15,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Stag Cutlery",
+		  "item": "Brave Knuckle",
 		  "dar": 27,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Red Scorpio",
+		  "item": "HP/Revival",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Red Dagger",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 90,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "L&K14 Combat",
+		  "item": "H&S25 Justice",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "God/Mind",
+		  "item": "H&S25 Justice",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Phonon Maser",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "HP/Revival",
+		  "item": "God/Arm",
 		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Flowen's Sword (3073)",
-		  "dar": 30,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Magic Rock \"Moola\"",
-		  "dar": 60,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Syncesta",
-		  "dar": 55,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "M&A60 Vise",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Yasminkov 9000M",
+		  "target": "Gilchic/\nGilchich",
+		  "item": "DB's Shield",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "L&K14 Combat",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "Bloody Art",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "AddSlot",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "H&S25 Justice",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Ruby Bullet",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
@@ -1330,560 +1276,536 @@
 		  "target": "Delsaber/\nDelsaber",
 		  "item": "Delsaber's Left Arm",
 		  "dar": 45,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Book of Hitogata",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Sacred Guard",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Sacred Guard",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Bringer's Right Arm",
-		  "dar": 88,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Heavenly/Arms",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Claw/\nClaw",
-		  "item": "Mahu",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Bulk/\nBulk",
-		  "item": "DF Field",
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Gunner/\nDark Gunner",
+		  "item": "Stink Frame",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Death Gunner/\nDeath Gunner",
+		  "item": "Stink Frame",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Chaos Bringer/\nDark Bringer",
+		  "item": "L&K14 Combat",
+		  "dar": 88,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Mace of Adaman",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Claw/\nClaw",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Bulk/\nBulk",
+		  "item": "DB's Armor",
+		  "dar": 35,
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Bulclaw/\nBulclaw",
-		  "item": "DF Field",
+		  "item": "DB's Armor",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Guardianna",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Spread Needle",
+		  "item": "H&S25 Justice",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Red Mechgun",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Rico's Earring",
-		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Pinkal": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Smartlink",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.09766"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Star Amplifier",
+		  "item": "Hildeblue's Head",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Storm Wand: Indra",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Stag Cutlery",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Agito (1975)",
+		  "item": "Elysion",
 		  "dar": 100,
-		  "rare": "4.68750"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Heart of Angel Harp",
+		  "item": "Fire Scepter: Agni",
 		  "dar": 30,
-		  "rare": "0.02441"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "God/Mind",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Inferno Bazooka",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Red Saber",
+		  "item": "Branch of Pakupaku",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Luminous Field",
+		  "item": "Stink Frame",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Heavenly/TP",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Technical Crozier",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Storm Wand: Indra",
-		  "dar": 25,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Brionac",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Heavenly/Arms",
+		  "item": "God/Mind",
 		  "dar": 100,
-		  "rare": "31.25000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Guilty Light",
+		  "item": "Double Saber",
 		  "dar": 55,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "Storm Wand: Indra",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Silence Claw",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Branch of Pakupaku",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 15,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Lavis Cannon",
+		  "item": "Mace of Adaman",
 		  "dar": 27,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "TP/Revival",
+		  "item": "Cure/Slow",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Yamato",
+		  "item": "Storm Wand: Indra",
 		  "dar": 90,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Gae Bolg",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Storm Wand: Indra",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Holy Ray",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Magic Rock \"Moola\"",
+		  "item": "TP/Revival",
 		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Heart of Izmaela",
-		  "dar": 30,
-		  "rare": "0.03662"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Cure/Slow",
-		  "dar": 60,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Heaven Punisher",
-		  "dar": 55,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Storm Wand: Indra",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Smoking Plate",
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Storm Wand: Indra",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "S-beat's Arms",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Agito (2001)",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Ruby Bullet",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Swordsman Lore",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.17090"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Sorcerer's Right Arm",
+		  "item": "Mahu",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Morning Glory",
+		  "item": "DB's Shield",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Morning Glory",
+		  "item": "DB's Shield",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Bringer's Right Arm",
+		  "item": "Storm Wand: Indra",
 		  "dar": 88,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Guardianna",
+		  "item": "Mace of Adaman",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Silence Claw",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Bulk/\nBulk",
-		  "item": "Evil Curst",
+		  "item": "D-Parts ver2.10",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Evil Curst",
+		  "item": "D-Parts ver2.10",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Storm Wand: Indra",
+		  "item": "Vjaya",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "DB's Saber (3069 Torato)",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "DF Field",
+		  "item": "Caduceus",
 		  "dar": 35,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Rico's Glasses",
-		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Redria": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Heavenly/Battle",
+		  "item": "Custom Frame ver.OO",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Magic Stone \"Iritista\"",
+		  "item": "Cure/Shock",
 		  "dar": 100,
-		  "rare": "4.68750"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Mahu",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Sacred Cloth",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Red Handgun",
+		  "item": "Diska of Braveman",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Flowen's Frame",
+		  "item": "Crush Bullet",
 		  "dar": 30,
-		  "rare": "0.48828"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "God/Mind",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Diska of Braveman",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Inferno Bazooka",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Red Saber",
+		  "item": "Gigobooma's Right Arm",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Valkyrie",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Asuka",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Cure/Poison",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Demolition Comet",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Red Slicer",
-		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Evil Shark/\nVulmer",
-		  "item": "Guilty Light",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Magic Rock \"Moola\"",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "God/Body",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Nano Dragon/\nNano Dragon",
+		  "item": "Double Saber",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Evil Shark/\nVulmer",
+		  "item": "Cure/Poison",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Sacred Guard",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Red Sword",
+		  "item": "Diska of Liberator",
 		  "dar": 15,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Guard Wave",
+		  "item": "Angry Fist",
 		  "dar": 27,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Lavis Cannon",
+		  "item": "Devil/Technique",
 		  "dar": 100,
-		  "rare": "4.68750"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Sange",
+		  "item": "God/Arm",
 		  "dar": 90,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Hero/Ability",
+		  "item": "Diska of Liberator",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Cure/Confuse",
+		  "item": "Diska of Liberator",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "De Rol Le Shell",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Luminous Field",
+		  "item": "Cure/Paralysis",
 		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Heart of Sorcerer's Cane",
-		  "dar": 30,
-		  "rare": "0.03662"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Red Scorpio",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Kasami Bracer",
-		  "dar": 60,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Agito (1975)",
-		  "dar": 55,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "DB's Saber (3073)",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Magic Rock \"Moola\"",
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Diska of Braveman",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "S-beat's Arms",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Meteor Smash",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Heavenly/HP",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
@@ -1892,922 +1814,880 @@
 		  "target": "Delsaber/\nDelsaber",
 		  "item": "Delsaber's Left Arm",
 		  "dar": 45,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Psycho Wand",
-		  "dar": 35,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Smoking Plate",
-		  "dar": 45,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Smoking Plate",
-		  "dar": 45,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Spread Needle",
-		  "dar": 88,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Meteor Cudgel",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Claw/\nClaw",
-		  "item": "Celestial Armor",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Bulk/\nBulk",
-		  "item": "God/Technique",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Bulclaw/\nBulclaw",
-		  "item": "God/Technique",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Diska of Braveman",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "La Dimenian/\nMerlan",
-		  "item": "DF Field",
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.19531"
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Gunner/\nDark Gunner",
+		  "item": "DB's Armor",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Death Gunner/\nDeath Gunner",
+		  "item": "DB's Armor",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Chaos Bringer/\nDark Bringer",
+		  "item": "Diska of Liberator",
+		  "dar": 88,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "DB's Shield",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Claw/\nClaw",
+		  "item": "Diska of Liberator",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Bulk/\nBulk",
+		  "item": "D-Parts ver2.10",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Bulclaw/\nBulclaw",
+		  "item": "D-Parts ver2.10",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Meteor Smash",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "La Dimenian/\nMerlan",
+		  "item": "Diska of Liberator",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Red Mechgun",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Red Ring",
-		  "dar": 100,
-		  "rare": "0.53711"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Oran": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Elysion",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Syncesta",
+		  "item": "Hildeblue's Head",
 		  "dar": 100,
-		  "rare": "4.68750"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Cross Scar",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Cross Scar",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Star Amplifier",
+		  "item": "Elysion",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Dragon Slayer",
+		  "item": "Flowen's Sword",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Flowen's Sword (3083)",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Cross Scar",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Guilty Light",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Twin Chakram",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Dragon's Claw",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Red Partisan",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Angry Fist",
+		  "item": "Blade Dance",
 		  "dar": 25,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Sense Plate",
+		  "item": "HP/Revival",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Agito (1975)",
+		  "item": "Last Survivor",
 		  "dar": 55,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "Musashi",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Silence Claw",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "HP/Revival",
+		  "item": "Stag Cutlery",
 		  "dar": 15,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Stag Cutlery",
+		  "item": "Angry Fist",
 		  "dar": 27,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Guard Wave",
+		  "item": "Devil/Battle",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Photon Filter",
+		  "item": "Cross Scar",
 		  "dar": 90,
-		  "rare": "0.06104"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Yamato",
+		  "item": "Bloody Art",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Dragon Slayer",
+		  "item": "Bloody Art",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "De Rol Le Shell",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Oran Card",
+		  "item": "God/TP",
 		  "dar": 30,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "S-Parts ver2.01",
-		  "dar": 30,
-		  "rare": "0.03052"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 85,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "V101",
-		  "dar": 60,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "Lavis Cannon",
-		  "dar": 55,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Canadine/\nCanabin",
-		  "item": "Dragon Slayer",
-		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Canane/\nCanune",
-		  "item": "Asuka",
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Cross Scar",
+		  "dar": 85,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Beat/\nSinow Blue",
+		  "item": "S-beat's Arms",
+		  "dar": 60,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Gold/\nSinow Red",
+		  "item": "Bloody Art",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Canadine/\nCanabin",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Canane/\nCanune",
+		  "item": "Regene Gear Adv.",
+		  "dar": 35,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Zero Divide",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Delsaber's Left Arm",
+		  "item": "Last Survivor",
 		  "dar": 45,
-		  "rare": "0.48828"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Book of Hitogata",
+		  "item": "Mahu",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Morning Glory",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Morning Glory",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Prophets of Motav",
+		  "item": "Cross Scar",
 		  "dar": 88,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Guardianna",
+		  "item": "DB's Shield",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Silence Claw",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Bulk/\nBulk",
-		  "item": "Kasami Bracer",
+		  "item": "D-Parts ver2.10",
 		  "dar": 35,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Kasami Bracer",
-		  "dar": 45,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Musashi",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Bulclaw/\nBulclaw",
+		  "item": "D-Parts ver2.10",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Bloody Art",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Red Mechgun",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Heavenly/Battle",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "DF Shield",
-		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Yellowboze": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Luminous Field",
+		  "item": "Hildebear's Head",
 		  "dar": 85,
-		  "rare": "0.09766"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Frozen Shooter",
+		  "item": "Hildeblue's Head",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Dragon Slayer",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Cross Scar",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Hero/Ability",
+		  "item": "Branch of Pakupaku",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Storm Wand: Indra",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Cure/Confuse",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Red Handgun",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Red Saber",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Agito (1975)",
+		  "item": "Gigobooma's Right Arm",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Dragon's Claw",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Heaven Punisher",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Guard Wave",
-		  "dar": 25,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Sange",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Red Scorpio",
-		  "dar": 55,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Evil Shark/\nVulmer",
-		  "item": "Silence Claw",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Last Survivor",
+		  "dar": 25,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Cure/Confuse",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Nano Dragon/\nNano Dragon",
+		  "item": "Double Saber",
+		  "dar": 55,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Evil Shark/\nVulmer",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Branch of Pakupaku",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Red Sword",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 15,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Final Impact",
+		  "item": "Brave Knuckle",
 		  "dar": 27,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Caduceus",
+		  "item": "Cure/Shock",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Heart of Tension Blaster",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 90,
-		  "rare": "0.02747"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Justy-23ST",
+		  "item": "Kaladbolg",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Alive Aqhu",
+		  "item": "Vjaya",
 		  "dar": 45,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Holy Ray",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Cure/Shock",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Gae Bolg",
+		  "item": "Devil/Battle",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Proto Regene Gear",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "V101",
+		  "item": "AddSlot",
 		  "dar": 85,
-		  "rare": "0.03967"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Lame d'Argent",
+		  "item": "S-beat's Arms",
 		  "dar": 60,
-		  "rare": "0.04272"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "S-red's Arms",
+		  "item": "Agito (2001)",
 		  "dar": 55,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Canadine/\nCanabin",
-		  "item": "NUG2000-Bazooka",
+		  "item": "H&S25 Justice",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Canane/\nCanune",
-		  "item": "Magic Rock \"Moola\"",
+		  "item": "Regene Gear Adv.",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Stink Shield",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Delsaber's Left Arm",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Sorcerer's Right Arm",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Guardianna",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Guardianna",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Bringer's Right Arm",
-		  "dar": 88,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Heavenly/Arms",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Claw/\nClaw",
-		  "item": "DB's Saber (3075)",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Bulk/\nBulk",
-		  "item": "Psycho Wand",
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.00095"
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Gunner/\nDark Gunner",
+		  "item": "Custom Frame ver.OO",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Death Gunner/\nDeath Gunner",
+		  "item": "Custom Frame ver.OO",
+		  "dar": 45,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Chaos Bringer/\nDark Bringer",
+		  "item": "Brave Hammer",
+		  "dar": 88,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Diska of Liberator",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Claw/\nClaw",
+		  "item": "Bloody Art",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Bulk/\nBulk",
+		  "item": "DB's Shield",
+		  "dar": 35,
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Bulclaw/\nBulclaw",
-		  "item": "Psycho Wand",
+		  "item": "DB's Shield",
 		  "dar": 45,
-		  "rare": "0.00095"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Smoking Plate",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Spread Needle",
+		  "item": "Star Atomizer",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Meteor Cudgel",
+		  "item": "Caduceus",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Rico's Earring",
-		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "0.78125"
 		}
 	  ],
 	  "Whitill": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Red Saber",
+		  "item": "Varista",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Frozen Shooter",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
 		  "item": "Diska of Braveman",
-		  "dar": 25,
-		  "rare": "0.31738"
+		  "dar": 100,
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Flowen's Sword (3079)",
+		  "item": "Rappy's Wing",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Al Rappy/\nPal Rappy",
-		  "item": "Red Partisan",
+		  "item": "Diska of Braveman",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Yamato",
+		  "item": "Slicer of Assassin",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Cure/Freeze",
+		  "item": "Photon Claw",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Booma/\nBartle",
-		  "item": "Silence Claw",
+		  "item": "Booma's Right Arm",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gobooma/\nBarble",
-		  "item": "Guilty Light",
+		  "item": "Gobooma's Right Arm",
 		  "dar": 38,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gigobooma/\nTollaw",
-		  "item": "Handgun: Milla",
+		  "item": "Gigobooma's Right Arm",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dragon/\nSil Dragon",
-		  "item": "Dragon's Claw",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Shouren",
+		  "item": "Grass Assassin's Arms",
 		  "dar": 55,
-		  "rare": "0.14648"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Red Handgun",
+		  "item": "Diska of Liberator",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Agito (1975)",
+		  "item": "Perfect/Resist",
 		  "dar": 100,
-		  "rare": "4.68750"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Nano Dragon/\nNano Dragon",
-		  "item": "Flight Fan",
+		  "item": "Diska of Liberator",
 		  "dar": 55,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Evil Shark/\nVulmer",
-		  "item": "PB/Create",
+		  "item": "M&A60 Vise",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pal Shark/\nGovulmer",
-		  "item": "Stag Cutlery",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Guil Shark/\nMelqueek",
-		  "item": "Red Sword",
+		  "item": "Stag Cutlery",
 		  "dar": 15,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pofuilly Slime/\nPofuilly Slime",
-		  "item": "Guard Wave",
-		  "dar": 27,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Pouilly Slime/\nPouilly Slime",
-		  "item": "Caduceus",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "P-arm's Arms",
-		  "dar": 90,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Angry Fist",
-		  "dar": 45,
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Red Scorpio",
+		  "target": "Pofuilly Slime/\nPofuilly Slime",
+		  "item": "Angry Fist",
+		  "dar": 27,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pouilly Slime/\nPouilly Slime",
+		  "item": "Cure/Freeze",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "Diska of Braveman",
+		  "dar": 90,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "H&S25 Justice",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "H&S25 Justice",
+		  "dar": 45,
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "De Rol Le/\nDal Ral Lie",
-		  "item": "Heavenly/Resist",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Inferno Bazooka",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "L&K14 Combat",
+		  "item": "PB/Create",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
+		  "item": "Diska of Braveman",
 		  "dar": 85,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Beat/\nSinow Blue",
-		  "item": "Heaven Punisher",
+		  "item": "Trigrinder",
 		  "dar": 60,
-		  "rare": "0.00095"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Gold/\nSinow Red",
-		  "item": "S-red's Arms",
+		  "item": "AddSlot",
 		  "dar": 55,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Canadine/\nCanabin",
-		  "item": "Whitill Card",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Canane/\nCanune",
-		  "item": "Yahoo!'s engine",
+		  "item": "Proto Regene Gear",
 		  "dar": 35,
-		  "rare": "0.48828"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Vol Opt/\nVol Opt ver. 2",
-		  "item": "Ruby Bullet",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Morning Glory",
+		  "item": "Delsaber's Right Arm",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Handgun: Guld",
+		  "item": "Talis",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Gunner/\nDark Gunner",
-		  "item": "Red Slicer",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Death Gunner/\nDeath Gunner",
-		  "item": "Red Slicer",
+		  "item": "Stink Frame",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Chaos Bringer/\nDark Bringer",
-		  "item": "Rico's Earring",
+		  "item": "Diska of Liberator",
 		  "dar": 88,
-		  "rare": "0.19531"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
+		  "item": "Heart of DB's Saber",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "0.03357"
 		},
 		{
 		  "target": "Claw/\nClaw",
-		  "item": "Perfect/Resist",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Bulk/\nBulk",
-		  "item": "DF Field",
+		  "item": "DB's Armor",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Bulclaw/\nBulclaw",
-		  "item": "DF Field",
+		  "item": "DB's Armor",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Meteor Cudgel",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Red Mechgun",
+		  "item": "Inferno Bazooka",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Rico's Glasses",
+		  "item": "Caduceus",
 		  "dar": 35,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Dark Falz/\nDark Falz",
-		  "item": "Red Ring",
-		  "dar": 100,
-		  "rare": "0.53711"
+		  "rare": "0.78125"
 		}
 	  ]
 	},
@@ -2815,81 +2695,75 @@
 	  "Viridia": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Asuka",
+		  "item": "Crush Bullet",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Frozen Shooter",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
 		  "item": "Final Impact",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "dar": 100,
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Windmill",
+		  "item": "Stink Frame",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "Rabbit Wand",
+		  "item": "Final Impact",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
 		  "item": "Victor Axe",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Cure/Poison",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Standstill Shield",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "NUG2000-Bazooka",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Gae Bolg",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Mind Material",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Final Impact",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Meteor Smash",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Meteor Smash",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Ancient Saber",
+		  "item": "Vjaya",
 		  "dar": 31,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Flame Visit",
+		  "item": "Double Saber",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "L&K38 Combat",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -2914,150 +2788,150 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Smartlink",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "0.26855"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Flowen's Shield",
+		  "item": "Light Relief",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Berdysh",
+		  "item": "Meteor Smash",
 		  "dar": 50,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Anti Android Rifle",
+		  "item": "Final Impact",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "God/Arm",
+		  "item": "Twin Psychogun",
 		  "dar": 45,
-		  "rare": "0.19531"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Electro Frame",
+		  "item": "Vjaya",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Heavenly/Power",
+		  "item": "Brave Knuckle",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Panzer Faust",
+		  "item": "Flowen's Shield",
 		  "dar": 50,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Agito (1977)",
+		  "item": "Meteor Smash",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Heart of Crazy Tune",
+		  "item": "Suppressed Gun",
 		  "dar": 25,
-		  "rare": "0.06104"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "God Hand",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "Plantain Leaf",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Cure/Shock",
+		  "item": "Custom Barrier ver.OO",
 		  "dar": 35,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Fatsia",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
+		  "item": "Fatsia",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "Tyrell's Parasol",
+		  "item": "Yamato",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Heart of Chameleon Scythe",
+		  "item": "Gae Bolg",
 		  "dar": 80,
-		  "rare": "0.03967"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Anti Android Rifle",
+		  "item": "Guilty Light",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Final Impact",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Madam's Umbrella",
+		  "item": "Attribute Plate",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Madam's Parasol",
+		  "item": "Sting Tip",
 		  "dar": 80,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "V501",
+		  "item": "Meteor Smash",
 		  "dar": 40,
-		  "rare": "0.24414"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Agito (1983)",
+		  "item": "Meteor Smash",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Stink Shield",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
@@ -3066,54 +2940,42 @@
 		  "target": "Dolmolm/\nDolmolm",
 		  "item": "Silence Claw",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Stink Frame",
+		  "item": "Meteor Smash",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Yunchang",
+		  "item": "Revival Garment",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Maser Beam",
-		  "dar": 10,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Heavenly/Power",
+		  "item": "Agito (1991)",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Rika's Claw",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Yamigarasu",
+		  "item": "Vjaya",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Psycho Wand",
+		  "item": "Madam's Umbrella",
 		  "dar": 80,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
 		  "rare": "1.56250"
 		},
 		{
@@ -3121,19 +2983,19 @@
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Nei's Claw",
+		  "item": "Final Impact",
 		  "dar": 40,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Book of Hitogata",
+		  "item": "Final Impact",
 		  "dar": 35,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Cladding of Epsilon",
+		  "item": "Gae Bolg",
 		  "dar": 30,
 		  "rare": "1.56250"
 		}
@@ -3141,81 +3003,75 @@
 	  "Greenill": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Flowen's Sword (3060)",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 80,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Kamui",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
 		  "item": "Justy-23ST",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "dar": 100,
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Suppressed Gun",
+		  "item": "Bloody Art",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "God/Luck",
+		  "item": "Justy-23ST",
 		  "dar": 100,
 		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Stink Frame",
+		  "item": "Light Relief",
 		  "dar": 40,
-		  "rare": "0.19531"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Justy-23ST",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Rage de Glace",
+		  "item": "Justy-23ST",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Handgun: Milla",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
 		  "item": "Justy-23ST",
-		  "dar": 30,
+		  "dar": 35,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Standstill Shield",
+		  "item": "Wals-MK2",
 		  "dar": 31,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Yasminkov 2000H",
+		  "item": "Flowen's Shield",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Heavenly/Resist",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -3240,27 +3096,27 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Cross Scar",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Cure/Paralysis",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Musashi",
+		  "item": "Wals-MK2",
 		  "dar": 50,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
 		  "item": "Twin Psychogun",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
@@ -3270,604 +3126,260 @@
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Anti Android Rifle",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Cross Scar",
+		  "item": "Justy-23ST",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Panzer Faust",
+		  "item": "S-Parts ver1.16",
 		  "dar": 50,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Handgun: Guld",
+		  "item": "Justy-23ST",
 		  "dar": 25,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Greenill Card",
+		  "item": "Justy-23ST",
 		  "dar": 25,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Maser Beam",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "Justy-23ST",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
+		  "item": "Wals-MK2",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gee/\nGee",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gi Gue/\nGi Gue",
+		  "item": "Stink Frame",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericarol/\nMericarol",
 		  "item": "Plantain Leaf",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gee/\nGee",
-		  "item": "Cure/Slow",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
 		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericarol/\nMericarol",
-		  "item": "V502",
-		  "dar": 80,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Merikle/\nMerikle",
-		  "item": "Berdysh",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericus/\nMericus",
-		  "item": "Red Scorpio",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Anti-Light Ring",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Secure Feet",
-		  "dar": 35,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Gibbles/\nGibbles",
-		  "item": "Angel Harp",
-		  "dar": 80,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Dress Plate",
-		  "dar": 40,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Yasminkov 3000R",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Heart of Rabbit Wand",
-		  "dar": 100,
-		  "rare": "0.53711"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Musashi",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Mahu",
-		  "dar": 35,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Morfos/\nMorfos",
-		  "item": "Lavis Cannon",
-		  "dar": 40,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Justy-23ST",
-		  "dar": 10,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Ano Rifle",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Yasminkov 7000V",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Deldepth/\nDeldepth",
-		  "item": "Heart of Egg Blaster",
-		  "dar": 40,
-		  "rare": "0.03967"
-		},
-		{
-		  "target": "Delbiter/\nDelbiter",
-		  "item": "Heaven Punisher",
-		  "dar": 80,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "D-Photon Core",
-		  "dar": 100,
-		  "rare": "3.12500"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Flame Garment",
-		  "dar": 40,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Del Lily/\nDel Lily",
-		  "item": "Asuka",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Epsilon/\nEpsilon",
-		  "item": "Heart of Rianov 303SNR",
-		  "dar": 30,
-		  "rare": "0.15869"
-		}
-	  ],
-	  "Skyly": [
-		{
-		  "target": "Hildebear/\nHildelt",
-		  "item": "Ancient Saber",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Heavenly/Power",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Justy-23ST",
-		  "dar": 20,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Vivienne",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "Parts of Egg Blaster",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "DB's Saber (3067)",
-		  "dar": 40,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Dragon Slayer",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Regenerate Gear B.P.",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Yasha",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Dragon Slayer",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "La Dimenian/\nMerlan",
-		  "item": "Flowen's Shield",
-		  "dar": 31,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "So Dimenian/\nDel-D",
-		  "item": "Mahu",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Twin Brand",
-		  "dar": 100,
-		  "rare": "4.29688"
-		},
-		{
-		  "target": "St. Rappy/\nSt. Rappy",
-		  "item": "Christmas Present",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Halo Rappy/\nHalo Rappy",
-		  "item": "Jack-O'-Lantern",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Egg Rappy/\nEgg Rappy",
-		  "item": "Easter Egg",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Dragon Slayer",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Victor Axe",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Sting Tip",
-		  "dar": 50,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Dragon Slayer",
-		  "dar": 45,
 		  "rare": "2.73438"
 		},
 		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Combat Gear",
-		  "dar": 45,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Dubchic/\nDubchich",
-		  "item": "Chain Sawd",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Agito (1975)",
-		  "dar": 30,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Daylight Scar",
-		  "dar": 50,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Delsaber/\nDelsaber",
-		  "item": "Guren",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Sorcerer's Right Arm",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Maser Beam",
-		  "dar": 100,
+		  "target": "Merikle/\nMerikle",
+		  "item": "Justy-23ST",
+		  "dar": 80,
 		  "rare": "2.73438"
 		},
 		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Merillia/\nMerillia",
-		  "item": "Stag Cutlery",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Meriltas/\nMeriltas",
-		  "item": "Fatsia",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gee/\nGee",
-		  "item": "Justy-23ST",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Sealed J-Sword",
-		  "dar": 80,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Mericarol/\nMericarol",
-		  "item": "Monkey King Bar",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Merikle/\nMerikle",
-		  "item": "Berdysh",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Yasminkov 7000V",
+		  "item": "Mahu",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Dragon Slayer",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "HP/Revival",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Partisan of Lightning",
+		  "item": "Revival Garment",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
 		  "item": "Sinow Berill's Arms",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Heaven Punisher",
+		  "item": "Wals-MK2",
 		  "dar": 45,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "God Hand",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Cure/Paralysis",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Standstill Shield",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Twin Blaze",
+		  "item": "Bloody Art",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Guilty Light",
-		  "dar": 10,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Silence Claw",
+		  "item": "Wals-MK2",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Zanba",
+		  "item": "Wals-MK2",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Brightness Circle",
+		  "item": "Light Relief",
 		  "dar": 40,
-		  "rare": "0.13428"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Soul Banish",
+		  "item": "Suppressed Gun",
 		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "D-Photon Core",
-		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Yamigarasu",
+		  "item": "Justy-23ST",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Heart of Poumn",
+		  "item": "Cross Scar",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Rika's Claw",
+		  "item": "Justy-23ST",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		}
 	  ],
-	  "Bluefull": [
+	  "Skyly": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Flowen's Sword (3067)",
+		  "item": "Dragon Slayer",
 		  "dar": 80,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Windmill",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Gae Bolg",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Suppressed Gun",
+		  "item": "Combat Gear",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "Rabbit Wand",
+		  "item": "Dragon Slayer",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Ancient Saber",
+		  "item": "Last Survivor",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Gae Bolg",
+		  "item": "Flowen's Sword",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Smoking Plate",
+		  "item": "Regenerate Gear",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Heart of Morolian",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "0.13428"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Devil/Technique",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Vjaya",
+		  "item": "Last Survivor",
 		  "dar": 31,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Silence Claw",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "De Rol Le Shell",
+		  "item": "Stag Cutlery",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -3892,25 +3404,333 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Alive Aqhu",
+		  "item": "Flowen's Sword",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Imperial Pick",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Sting Tip",
+		  "item": "Last Survivor",
 		  "dar": 50,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Mahu",
+		  "item": "Dragon Slayer",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "Dragon Slayer",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dubchic/\nDubchich",
+		  "item": "Last Survivor",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Last Survivor",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "Dragon Slayer",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Delsaber/\nDelsaber",
+		  "item": "Attribute Wall",
+		  "dar": 25,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Sting Tip",
+		  "dar": 25,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Gol Dragon/\nGol Dragon",
+		  "item": "Guilty Light",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Merillia/\nMerillia",
+		  "item": "Flowen's Sword",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Meriltas/\nMeriltas",
+		  "item": "Last Survivor",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gee/\nGee",
+		  "item": "Last Survivor",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gi Gue/\nGi Gue",
+		  "item": "Custom Barrier ver.OO",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericarol/\nMericarol",
+		  "item": "Fatsia",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Merikle/\nMerikle",
+		  "item": "Dragon Slayer",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericus/\nMericus",
+		  "item": "Guilty Light",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Ul Gibbon/\nUl Gibbon",
+		  "item": "Last Survivor",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Zol Gibbon/\nZol Gibbon",
+		  "item": "Wals-MK2",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gibbles/\nGibbles",
+		  "item": "Victor Axe",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Berill/\nSinow Berill",
+		  "item": "Sinow Berill's Arms",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Spigell/\nSinow Spigell",
+		  "item": "Wals-MK2",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gal Gryphon/\nGal Gryphon",
+		  "item": "Angry Fist",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Dolmolm/\nDolmolm",
+		  "item": "Wals-MK2",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Dolmdarl/\nDolmdarl",
+		  "item": "Flowen's Shield",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Morfos/\nMorfos",
+		  "item": "Last Survivor",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zoa/\nSinow Zoa",
+		  "item": "Last Survivor",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zele/\nSinow Zele",
+		  "item": "Silence Claw",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Deldepth/\nDeldepth",
+		  "item": "Flowen's Frame",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Delbiter/\nDelbiter",
+		  "item": "God/Battle",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Ill Gill/\nIll Gill",
+		  "item": "Dragon Slayer",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Del Lily/\nDel Lily",
+		  "item": "Justy-23ST",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Epsilon/\nEpsilon",
+		  "item": "Dragon Slayer",
+		  "dar": 30,
+		  "rare": "1.56250"
+		}
+	  ],
+	  "Bluefull": [
+		{
+		  "target": "Hildebear/\nHildelt",
+		  "item": "Vjaya",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hildeblue/\nHildetorr",
+		  "item": "Victor Axe",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Rag Rappy/\nEl Rappy",
+		  "item": "Custom Barrier ver.OO",
+		  "dar": 100,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Love Rappy/\nLove Rappy",
+		  "item": "Gae Bolg",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Grass Assassin/\nCrimson Assassin",
+		  "item": "Stag Cutlery",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Vjaya",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Gae Bolg",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Vjaya",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Vjaya",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "La Dimenian/\nMerlan",
+		  "item": "Brave Hammer",
+		  "dar": 31,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "So Dimenian/\nDel-D",
+		  "item": "Silence Claw",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barba Ray/\nBarba Ray",
+		  "item": "Yamato",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "St. Rappy/\nSt. Rappy",
+		  "item": "Christmas Present",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Halo Rappy/\nHalo Rappy",
+		  "item": "Jack-O'-Lantern",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Egg Rappy/\nEgg Rappy",
+		  "item": "Easter Egg",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Savage Wolf/\nGulgus",
+		  "item": "Brave Hammer",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barbarous Wolf/\nGulgus-Gue",
+		  "item": "Vjaya",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "Vjaya",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "Angry Fist",
 		  "dar": 45,
 		  "rare": "2.73438"
 		},
@@ -3918,43 +3738,43 @@
 		  "target": "Hidoom/\nHidoom",
 		  "item": "Magic Rock \"Moola\"",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Regenerate Gear B.P.",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Guilty Light",
+		  "item": "Vjaya",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Vjaya",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Heart of Soul Banish",
+		  "item": "Regenerate Gear",
 		  "dar": 50,
-		  "rare": "0.03052"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "V501",
+		  "item": "Flowen's Shield",
 		  "dar": 25,
-		  "rare": "0.39063"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "God/Technique",
+		  "item": "Sting Tip",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Maser Beam",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
@@ -3963,79 +3783,79 @@
 		  "target": "Merillia/\nMerillia",
 		  "item": "Vjaya",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Madam's Umbrella",
+		  "item": "Brave Hammer",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Alive Aqhu",
+		  "item": "Flowen's Frame",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Glide Divine",
+		  "item": "Gae Bolg",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "The Sigh of a God",
+		  "item": "Yamato",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Partisan of Lightning",
+		  "item": "Attribute Plate",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Berdysh",
+		  "item": "Guilty Light",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Bluefull Card",
+		  "item": "Brave Hammer",
 		  "dar": 30,
-		  "rare": "0.00992"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Agito (1983)",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Tyrell's Parasol",
+		  "item": "Madam's Umbrella",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "V501",
+		  "item": "Sinow Berill's Arms",
 		  "dar": 40,
-		  "rare": "0.24414"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Electro Frame",
+		  "item": "Plantain Leaf",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Gal Gryphon's Wing",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
@@ -4044,74 +3864,62 @@
 		  "target": "Dolmolm/\nDolmolm",
 		  "item": "Fatsia",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Imperial Pick",
+		  "item": "Brave Hammer",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Yunchang",
+		  "item": "God/Battle",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Twin Brand",
-		  "dar": 10,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Secure Feet",
+		  "item": "Vjaya",
 		  "dar": 30,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Zanba",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Soul Banish",
+		  "item": "Attribute Wall",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Psycho Wand",
+		  "item": "Suppressed Gun",
 		  "dar": 80,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Demonic Fork",
+		  "item": "Gae Bolg",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Hitogata",
+		  "item": "Alive Aqhu",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Cladding of Epsilon",
+		  "item": "Gae Bolg",
 		  "dar": 30,
 		  "rare": "1.56250"
 		}
@@ -4119,27 +3927,637 @@
 	  "Purplenum": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Ancient Saber",
+		  "item": "H&S25 Justice",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Kamui",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
 		  "item": "L&K14 Combat",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "dar": 100,
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Suppressed Gun",
+		  "item": "H&S25 Justice",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Love Rappy/\nLove Rappy",
+		  "item": "L&K14 Combat",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Grass Assassin/\nCrimson Assassin",
+		  "item": "Twin Psychogun",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Flowen's Frame",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Silence Claw",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "La Dimenian/\nMerlan",
+		  "item": "Double Saber",
+		  "dar": 31,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "So Dimenian/\nDel-D",
+		  "item": "Spirit Garment",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barba Ray/\nBarba Ray",
+		  "item": "Yamato",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "St. Rappy/\nSt. Rappy",
+		  "item": "Christmas Present",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Halo Rappy/\nHalo Rappy",
+		  "item": "Jack-O'-Lantern",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Egg Rappy/\nEgg Rappy",
+		  "item": "Easter Egg",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Savage Wolf/\nGulgus",
+		  "item": "M&A60 Vise",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barbarous Wolf/\nGulgus-Gue",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "H&S25 Justice",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "Magic Rock \"Moola\"",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "L&K14 Combat",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dubchic/\nDubchich",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "S-Parts ver1.16",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Delsaber/\nDelsaber",
+		  "item": "Combat Gear",
+		  "dar": 25,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "L&K14 Combat",
+		  "dar": 25,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Gol Dragon/\nGol Dragon",
+		  "item": "Guilty Light",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Merillia/\nMerillia",
+		  "item": "Bloody Art",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Meriltas/\nMeriltas",
+		  "item": "H&S25 Justice",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gee/\nGee",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gi Gue/\nGi Gue",
+		  "item": "Attribute Wall",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericarol/\nMericarol",
+		  "item": "Yamato",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Merikle/\nMerikle",
+		  "item": "Cross Scar",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericus/\nMericus",
+		  "item": "Guilty Light",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Ul Gibbon/\nUl Gibbon",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Zol Gibbon/\nZol Gibbon",
+		  "item": "H&S25 Justice",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gibbles/\nGibbles",
+		  "item": "Cross Scar",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Berill/\nSinow Berill",
+		  "item": "Sinow Berill's Arms",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Spigell/\nSinow Spigell",
+		  "item": "Custom Barrier ver.OO",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gal Gryphon/\nGal Gryphon",
+		  "item": "Mahu",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Dolmolm/\nDolmolm",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Dolmdarl/\nDolmdarl",
+		  "item": "Bloody Art",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Morfos/\nMorfos",
+		  "item": "Stink Frame",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zoa/\nSinow Zoa",
+		  "item": "H&S25 Justice",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zele/\nSinow Zele",
+		  "item": "Agito (1991)",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Deldepth/\nDeldepth",
+		  "item": "Mahu",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Delbiter/\nDelbiter",
+		  "item": "Suppressed Gun",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Ill Gill/\nIll Gill",
+		  "item": "L&K14 Combat",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Del Lily/\nDel Lily",
+		  "item": "L&K14 Combat",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Epsilon/\nEpsilon",
+		  "item": "Cross Scar",
+		  "dar": 30,
+		  "rare": "1.56250"
+		}
+	  ],
+	  "Pinkal": [
+		{
+		  "target": "Hildebear/\nHildelt",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hildeblue/\nHildetorr",
+		  "item": "Storm Wand: Indra",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Rag Rappy/\nEl Rappy",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 100,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Love Rappy/\nLove Rappy",
+		  "item": "Sting Tip",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Grass Assassin/\nCrimson Assassin",
+		  "item": "Light Relief",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Poison Lily/\nOb Lily",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Nar Lily/\nMil Lily",
+		  "item": "Storm Wand: Indra",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Dark Belra/\nIndi Belra",
+		  "item": "Silence Claw",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "La Dimenian/\nMerlan",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 31,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "So Dimenian/\nDel-D",
+		  "item": "Flowen's Shield",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barba Ray/\nBarba Ray",
+		  "item": "Yamato",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "St. Rappy/\nSt. Rappy",
+		  "item": "Christmas Present",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Halo Rappy/\nHalo Rappy",
+		  "item": "Jack-O'-Lantern",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Egg Rappy/\nEgg Rappy",
+		  "item": "Easter Egg",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Savage Wolf/\nGulgus",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Barbarous Wolf/\nGulgus-Gue",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Pan Arms/\nPan Arms",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Migium/\nMigium",
+		  "item": "Gae Bolg",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hidoom/\nHidoom",
+		  "item": "Magic Rock \"Moola\"",
+		  "dar": 45,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Dubchic/\nDubchich",
+		  "item": "Brave Knuckle",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Garanz/\nBaranz",
+		  "item": "S-Parts ver1.16",
+		  "dar": 50,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Delsaber/\nDelsaber",
+		  "item": "Vjaya",
+		  "dar": 25,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Silence Claw",
+		  "dar": 25,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Gol Dragon/\nGol Dragon",
+		  "item": "Guilty Light",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Merillia/\nMerillia",
+		  "item": "Vjaya",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Meriltas/\nMeriltas",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gee/\nGee",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gi Gue/\nGi Gue",
+		  "item": "Fatsia",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericarol/\nMericarol",
+		  "item": "Yamato",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Merikle/\nMerikle",
+		  "item": "Plantain Leaf",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Mericus/\nMericus",
+		  "item": "Guilty Light",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Ul Gibbon/\nUl Gibbon",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Zol Gibbon/\nZol Gibbon",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Gibbles/\nGibbles",
+		  "item": "Attribute Wall",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Sinow Berill/\nSinow Berill",
+		  "item": "Sinow Berill's Arms",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Spigell/\nSinow Spigell",
+		  "item": "Storm Wand: Indra",
+		  "dar": 45,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Gal Gryphon/\nGal Gryphon",
+		  "item": "Mahu",
+		  "dar": 100,
+		  "rare": "9.37500"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Dolmolm/\nDolmolm",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Dolmdarl/\nDolmdarl",
+		  "item": "Vjaya",
+		  "dar": 35,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Morfos/\nMorfos",
+		  "item": "Spirit Garment",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zoa/\nSinow Zoa",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Sinow Zele/\nSinow Zele",
+		  "item": "Storm Wand: Indra",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Deldepth/\nDeldepth",
+		  "item": "Gae Bolg",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Delbiter/\nDelbiter",
+		  "item": "Madam's Umbrella",
+		  "dar": 80,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Ill Gill/\nIll Gill",
+		  "item": "Gae Bolg",
+		  "dar": 40,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Del Lily/\nDel Lily",
+		  "item": "Storm Wand: Indra",
+		  "dar": 35,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Epsilon/\nEpsilon",
+		  "item": "Storm Wand: Indra",
+		  "dar": 30,
+		  "rare": "1.56250"
+		}
+	  ],
+	  "Redria": [
+		{
+		  "target": "Hildebear/\nHildelt",
+		  "item": "Diska of Liberator",
+		  "dar": 80,
+		  "rare": "2.73438"
+		},
+		{
+		  "target": "Hildeblue/\nHildetorr",
+		  "item": "Victor Axe",
+		  "dar": 100,
+		  "rare": "87.50000"
+		},
+		{
+		  "target": "Rag Rappy/\nEl Rappy",
+		  "item": "Diska of Liberator",
+		  "dar": 100,
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
@@ -4149,51 +4567,51 @@
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Yasminkov 9000M",
+		  "item": "Light Relief",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "L&K14 Combat",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "God/Mind",
+		  "item": "Custom Barrier ver.OO",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
+		  "item": "Silence Claw",
 		  "dar": 35,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Cross Scar",
-		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Dimenian/\nArlan",
+		  "item": "Meteor Smash",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Anti Android Rifle",
+		  "item": "Meteor Smash",
 		  "dar": 31,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Heart of Suppressed Gun",
+		  "item": "God/Power",
 		  "dar": 30,
-		  "rare": "0.03662"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Heavenly/TP",
+		  "item": "Stag Cutlery",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -4218,878 +4636,214 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "L&K14 Combat",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Cure/Shock",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Regenerate Gear B.P.",
+		  "item": "Light Relief",
 		  "dar": 50,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Magic Rock \"Moola\"",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Yasminkov 2000H",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dubchic/\nDubchich",
-		  "item": "Agito (1980)",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Anti Android Rifle",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Panzer Faust",
-		  "dar": 50,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Delsaber/\nDelsaber",
-		  "item": "Rage de Foudre",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Ignition Cloak",
-		  "dar": 25,
-		  "rare": "0.24414"
-		},
-		{
-		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Phonon Maser",
-		  "dar": 100,
 		  "rare": "2.73438"
 		},
 		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Merillia/\nMerillia",
-		  "item": "Cross Scar",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Meriltas/\nMeriltas",
-		  "item": "Plantain Leaf",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gee/\nGee",
-		  "item": "L&K14 Combat",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Glide Divine",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericarol/\nMericarol",
-		  "item": "Heaven Punisher",
-		  "dar": 80,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Merikle/\nMerikle",
-		  "item": "Partisan of Lightning",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericus/\nMericus",
-		  "item": "Agito (1975)",
-		  "dar": 80,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "M&A60 Vise",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Agito (1983)",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gibbles/\nGibbles",
-		  "item": "Heavenly/Ability",
-		  "dar": 80,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Dress Plate",
-		  "dar": 40,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "V501",
+		  "target": "Migium/\nMigium",
+		  "item": "Cure/Freeze",
 		  "dar": 45,
-		  "rare": "0.21973"
+		  "rare": "2.73438"
 		},
 		{
-		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Heavenly/HP",
-		  "dar": 100,
-		  "rare": "2.53906"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Dolmolm/\nDolmolm",
-		  "item": "L&K14 Combat",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "DB's Saber (3064)",
-		  "dar": 35,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Morfos/\nMorfos",
-		  "item": "Tripolic Shield",
-		  "dar": 40,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "L&K14 Combat",
-		  "dar": 10,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Agito (1991)",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Yasminkov 7000V",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Deldepth/\nDeldepth",
-		  "item": "Heart of Yasminkov 9000M",
-		  "dar": 40,
-		  "rare": "0.03967"
-		},
-		{
-		  "target": "Delbiter/\nDelbiter",
-		  "item": "The Sigh of a God",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Ill Gill/\nIll Gill",
-		  "item": "V502",
-		  "dar": 40,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Del Lily/\nDel Lily",
-		  "item": "Hitogata",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Epsilon/\nEpsilon",
-		  "item": "Rika's Claw",
-		  "dar": 30,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Pinkal": [
-		{
-		  "target": "Hildebear/\nHildelt",
-		  "item": "Technical Crozier",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Berdysh",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Storm Wand: Indra",
-		  "dar": 20,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Vivienne",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "Parts of Egg Blaster",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Angry Fist",
-		  "dar": 40,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Storm Wand: Indra",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Rambling May",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
-		  "dar": 35,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Gae Bolg",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "La Dimenian/\nMerlan",
+		  "target": "Hidoom/\nHidoom",
 		  "item": "God/TP",
-		  "dar": 31,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "So Dimenian/\nDel-D",
-		  "item": "Aura Field",
-		  "dar": 30,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "De Rol Le Shell",
-		  "dar": 100,
-		  "rare": "4.29688"
-		},
-		{
-		  "target": "St. Rappy/\nSt. Rappy",
-		  "item": "Christmas Present",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Halo Rappy/\nHalo Rappy",
-		  "item": "Jack-O'-Lantern",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Egg Rappy/\nEgg Rappy",
-		  "item": "Easter Egg",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Storm Wand: Indra",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "God/Ability",
-		  "dar": 30,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Regenerate Gear B.P.",
-		  "dar": 50,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Anti Android Rifle",
 		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "Magic Rock \"Moola\"",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dubchic/\nDubchich",
-		  "item": "Sting Tip",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Liberta Kit",
-		  "dar": 30,
-		  "rare": "0.07935"
-		},
-		{
-		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
-		  "dar": 50,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Delsaber/\nDelsaber",
-		  "item": "Agito (1980)",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Prophets of Motav",
-		  "dar": 25,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Partisan of Lightning",
-		  "dar": 100,
 		  "rare": "2.73438"
 		},
 		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Merillia/\nMerillia",
-		  "item": "Pinkal Card",
-		  "dar": 30,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Meriltas/\nMeriltas",
-		  "item": "Fatsia",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gee/\nGee",
-		  "item": "Madam's Umbrella",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Glide Divine",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericarol/\nMericarol",
-		  "item": "Asuka",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Merikle/\nMerikle",
-		  "item": "The Sigh of a God",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Mericus/\nMericus",
-		  "item": "Handgun: Milla",
-		  "dar": 80,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Lame d'Argent",
-		  "dar": 30,
-		  "rare": "0.07935"
-		},
-		{
-		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Diska of Braveman",
-		  "dar": 35,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Gibbles/\nGibbles",
-		  "item": "Tyrell's Parasol",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Sinow Berill's Arms",
-		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Soul Banish",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Heavenly/HP",
-		  "dar": 100,
-		  "rare": "2.53906"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Gae Bolg",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Monkey King Bar",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Morfos/\nMorfos",
-		  "item": "Tripolic Shield",
-		  "dar": 40,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Storm Wand: Indra",
-		  "dar": 10,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Flowen's Sword (3077)",
-		  "dar": 30,
-		  "rare": "0.00992"
-		},
-		{
-		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Psycho Wand",
-		  "dar": 35,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Deldepth/\nDeldepth",
-		  "item": "V501",
-		  "dar": 40,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Delbiter/\nDelbiter",
-		  "item": "Hitogata",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Demonic Fork",
-		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Del Lily/\nDel Lily",
-		  "item": "Heart of Lollipop",
-		  "dar": 35,
-		  "rare": "0.03357"
-		},
-		{
-		  "target": "Epsilon/\nEpsilon",
-		  "item": "Rika's Claw",
-		  "dar": 30,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Redria": [
-		{
-		  "target": "Hildebear/\nHildelt",
-		  "item": "Flowen's Sword (3082)",
-		  "dar": 80,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Magic Stone \"Iritista\"",
-		  "dar": 100,
-		  "rare": "4.68750"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Diska of Braveman",
-		  "dar": 20,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Rambling May",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "Suppressed Gun",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "God/Technique",
-		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Victor Axe",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Crimson Coat",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Flight Cutter",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dimenian/\nArlan",
-		  "item": "Diska of Braveman",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "La Dimenian/\nMerlan",
-		  "item": "God/Legs",
-		  "dar": 31,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "So Dimenian/\nDel-D",
-		  "item": "Cure/Slow",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Twin Brand",
-		  "dar": 100,
-		  "rare": "4.29688"
-		},
-		{
-		  "target": "St. Rappy/\nSt. Rappy",
-		  "item": "Christmas Present",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Halo Rappy/\nHalo Rappy",
-		  "item": "Jack-O'-Lantern",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "Egg Rappy/\nEgg Rappy",
-		  "item": "Easter Egg",
-		  "dar": 100,
-		  "rare": "87.50000"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Diska of Braveman",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Agito (1980)",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Tripolic Reflector",
-		  "dar": 50,
-		  "rare": "0.19531"
-		},
-		{
-		  "target": "Migium/\nMigium",
-		  "item": "Magic Rock \"Moola\"",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Hidoom/\nHidoom",
-		  "item": "PB/Create",
-		  "dar": 45,
-		  "rare": "0.31738"
-		},
-		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Photon Filter",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 30,
-		  "rare": "0.08545"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Electro Frame",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Panzer Faust",
+		  "item": "Combat Gear",
 		  "dar": 50,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
 		  "item": "Flowen's Shield",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Redria Card",
+		  "item": "Diska of Braveman",
 		  "dar": 25,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Maser Beam",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "Cure/Paralysis",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Amitie's Memo",
+		  "item": "Meteor Smash",
 		  "dar": 35,
-		  "rare": "0.07935"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Angry Fist",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
+		  "item": "Plantain Leaf",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "Asuka",
+		  "item": "Yamato",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Twin Blaze",
+		  "item": "Agito (1991)",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Red Scorpio",
+		  "item": "Angry Fist",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Stag Cutlery",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Brightness Circle",
+		  "item": "Meteor Smash",
 		  "dar": 35,
-		  "rare": "0.13428"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Heavenly/Battle",
+		  "item": "Spirit Garment",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Flowen's Sword (3082)",
+		  "item": "Sinow Berill's Arms",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Soul Banish",
+		  "item": "Final Impact",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Heart of Ruby Bullet",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "0.53711"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Monkey King Bar",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Perfect/Resist",
+		  "item": "HP/Revival",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Yunchang",
+		  "item": "Stink Frame",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Stag Cutlery",
-		  "dar": 10,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Ano Rifle",
+		  "item": "God/Battle",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Heaven Punisher",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.00095"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Aura Field",
+		  "item": "Attribute Wall",
 		  "dar": 40,
-		  "rare": "0.13428"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Hitogata",
+		  "item": "Suppressed Gun",
 		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "D-Photon Core",
-		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "V502",
+		  "item": "Diska of Braveman",
 		  "dar": 40,
-		  "rare": "0.12207"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Standstill Shield",
+		  "item": "Spirit Garment",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Cladding of Epsilon",
+		  "item": "Diska of Braveman",
 		  "dar": 30,
 		  "rare": "1.56250"
 		}
@@ -5097,81 +4851,75 @@
 	  "Oran": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Ancient Saber",
+		  "item": "Cross Scar",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Syncesta",
+		  "item": "Victor Axe",
 		  "dar": 100,
-		  "rare": "4.68750"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Cross Scar",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "DB's Saber (3070)",
+		  "item": "Bloody Art",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "The Sigh of a God",
+		  "item": "Light Relief",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Anti Android Rifle",
+		  "item": "Last Survivor",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Dragon Slayer",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Aura Field",
+		  "item": "Flowen's Shield",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
+		  "item": "Heart of Ancient Saber",
 		  "dar": 35,
-		  "rare": "0.39063"
+		  "rare": "0.04272"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Cross Scar",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "God/HP",
+		  "item": "Bloody Art",
 		  "dar": 31,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "Brightness Circle",
+		  "item": "Regenerate Gear",
 		  "dar": 30,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Heavenly/TP",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -5196,308 +4944,290 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Flowen's Shield",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "Ancient Saber",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Victor Axe",
+		  "item": "Bloody Art",
 		  "dar": 50,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Twin Psychogun",
+		  "item": "Cross Scar",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Yasminkov 2000H",
+		  "item": "Brave Knuckle",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Anti Android Rifle",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Gilchic/\nGilchich",
-		  "item": "Sting Tip",
+		  "item": "Bloody Art",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Gilchic/\nGilchich",
+		  "item": "Bloody Art",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Panzer Faust",
+		  "item": "Combat Gear",
 		  "dar": 50,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Daylight Scar",
+		  "item": "Bloody Art",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Guren",
+		  "item": "Cross Scar",
 		  "dar": 25,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Earth Wand: Brownie",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "Fatsia",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Dragon Slayer",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Cross Scar",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
+		  "item": "Double Saber",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "Asuka",
+		  "item": "Yamato",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Cure/Freeze",
+		  "item": "Cross Scar",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Red Scorpio",
+		  "item": "Guilty Light",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Anti-Light Ring",
+		  "item": "Bloody Art",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Dragon Slayer",
+		  "item": "Last Survivor",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Psycho Wand",
+		  "item": "Revival Garment",
 		  "dar": 80,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Wedding Dress",
+		  "item": "Bloody Art",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Berill Photon",
+		  "item": "Last Survivor",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Gal Gryphon's Wing",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Dragon Slayer",
+		  "item": "Blade Dance",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Stink Frame",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Standstill Shield",
+		  "item": "Fire Scepter: Agni",
 		  "dar": 40,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Cross Scar",
-		  "dar": 10,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Twin Chakram",
+		  "item": "God/Battle",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Zanba",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Rika's Claw",
+		  "item": "Sting Tip",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Heaven Punisher",
+		  "item": "Attribute Plate",
 		  "dar": 80,
-		  "rare": "0.00095"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Demonic Fork",
+		  "item": "Cross Scar",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Hitogata",
+		  "item": "Cross Scar",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Ano Rifle",
+		  "item": "Dragon Slayer",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		}
 	  ],
 	  "Yellowboze": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Agito (1977)",
+		  "item": "Last Survivor",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Flight Cutter",
+		  "item": "Bloody Art",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "Bravace",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Cross Scar",
+		  "item": "Vjaya",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "The Sigh of a God",
+		  "item": "Meteor Smash",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Ancient Saber",
+		  "item": "Light Relief",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Flowen's Sword (3084)",
+		  "item": "Meteor Smash",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Secure Feet",
+		  "item": "Justy-23ST",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Belra's Right Arm",
+		  "item": "Alive Aqhu",
 		  "dar": 35,
-		  "rare": "0.39063"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Gae Bolg",
+		  "item": "Brave Hammer",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
 		  "item": "Custom Barrier ver.OO",
 		  "dar": 31,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
 		  "item": "Silence Claw",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "God Hand",
+		  "item": "Angry Fist",
 		  "dar": 100,
-		  "rare": "2.73438"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -5522,226 +5252,214 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "Ancient Saber",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "God/Legs",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Tripolic Reflector",
+		  "item": "Brave Hammer",
 		  "dar": 50,
-		  "rare": "0.19531"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Diska of Braveman",
+		  "item": "Bravace",
 		  "dar": 45,
 		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Yasminkov 2000H",
+		  "item": "Club of Zumiuran",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Dragon Slayer",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Gae Bolg",
+		  "item": "Wals-MK2",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Daylight Scar",
+		  "item": "Regenerate Gear",
 		  "dar": 50,
-		  "rare": "0.15869"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Lavis Cannon",
+		  "item": "Heart of Delsaber's Buster",
 		  "dar": 25,
-		  "rare": "0.00992"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Rage de Foudre",
+		  "item": "Light Relief",
 		  "dar": 25,
-		  "rare": "0.09766"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Heavenly/TP",
+		  "item": "Stag Cutlery",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "Storm Wand: Indra",
+		  "item": "Kaladbolg",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Final Impact",
+		  "item": "Vjaya",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Mahu",
+		  "item": "Brave Hammer",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
+		  "item": "Mahu",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "L&K38 Combat",
+		  "item": "Madam's Umbrella",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Twin Blaze",
+		  "item": "Guilty Light",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Asuka",
+		  "item": "Attribute Plate",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "PB/Create",
+		  "item": "Mace of Adaman",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Spirit Garment",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Lavis Cannon",
+		  "item": "Spirit Garment",
 		  "dar": 80,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
 		  "item": "Sinow Berill's Arms",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "V501",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 45,
-		  "rare": "0.21973"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Galatine",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dolmolm/\nDolmolm",
-		  "item": "L&K14 Combat",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
 		  "item": "Stink Frame",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Yasminkov 7000V",
+		  "item": "Stink Frame",
 		  "dar": 40,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "Guilty Light",
-		  "dar": 10,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Zanba",
+		  "item": "Last Survivor",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Hitogata",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Yellowboze Card",
+		  "item": "Guilty Light",
 		  "dar": 40,
-		  "rare": "0.00992"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Madam's Umbrella",
+		  "item": "Twin Psychogun",
 		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "Parasitic Gene \"Flow\"",
-		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "Yamigarasu",
+		  "item": "Gae Bolg",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Heart of Poumn",
+		  "item": "Storm Wand: Indra",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Cladding of Epsilon",
+		  "item": "Final Impact",
 		  "dar": 30,
 		  "rare": "1.56250"
 		}
@@ -5749,81 +5467,75 @@
 	  "Whitill": [
 		{
 		  "target": "Hildebear/\nHildelt",
-		  "item": "Victor Axe",
+		  "item": "Diska of Liberator",
 		  "dar": 80,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hildeblue/\nHildetorr",
-		  "item": "Rage de Glace",
+		  "item": "Diska of Braveman",
 		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Mothmant/\nMothvert",
-		  "item": "L&K14 Combat",
-		  "dar": 20,
-		  "rare": "0.31738"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Rag Rappy/\nEl Rappy",
-		  "item": "Rambling May",
+		  "item": "Diska of Liberator",
 		  "dar": 100,
-		  "rare": "0.09766"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Love Rappy/\nLove Rappy",
-		  "item": "DB's Saber (3077)",
+		  "item": "Regenerate Gear",
 		  "dar": 100,
-		  "rare": "4.68750"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Grass Assassin/\nCrimson Assassin",
-		  "item": "Flight Cutter",
+		  "item": "Double Saber",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Poison Lily/\nOb Lily",
-		  "item": "Diska of Braveman",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Nar Lily/\nMil Lily",
-		  "item": "Thirteen",
+		  "item": "Diska of Braveman",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "87.50000"
 		},
 		{
 		  "target": "Dark Belra/\nIndi Belra",
-		  "item": "Standstill Shield",
+		  "item": "L&K14 Combat",
 		  "dar": 35,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Dimenian/\nArlan",
-		  "item": "Diska of Braveman",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "La Dimenian/\nMerlan",
-		  "item": "Silence Claw",
+		  "item": "H&S25 Justice",
 		  "dar": 31,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "So Dimenian/\nDel-D",
-		  "item": "God/Ability",
+		  "item": "Diska of Braveman",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barba Ray/\nBarba Ray",
-		  "item": "Heavenly/TP",
+		  "item": "Yamato",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "St. Rappy/\nSt. Rappy",
@@ -5848,228 +5560,216 @@
 		},
 		{
 		  "target": "Savage Wolf/\nGulgus",
-		  "item": "God/Legs",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Barbarous Wolf/\nGulgus-Gue",
-		  "item": "L&K14 Combat",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Pan Arms/\nPan Arms",
-		  "item": "Diska of Braveman",
+		  "item": "Diska of Liberator",
 		  "dar": 50,
-		  "rare": "1.56250"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Migium/\nMigium",
-		  "item": "Angry Fist",
+		  "item": "Silence Claw",
 		  "dar": 45,
 		  "rare": "2.73438"
 		},
 		{
 		  "target": "Hidoom/\nHidoom",
-		  "item": "Yasminkov 2000H",
+		  "item": "Silence Claw",
 		  "dar": 45,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Dubchic/\nDubchich",
-		  "item": "Diska of Braveman",
+		  "item": "Twin Psychogun",
 		  "dar": 30,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gilchic/\nGilchich",
-		  "item": "Electro Frame",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Garanz/\nBaranz",
-		  "item": "Parts of Baranz",
+		  "item": "Combat Gear",
 		  "dar": 50,
-		  "rare": "0.15869"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Delsaber/\nDelsaber",
-		  "item": "Guren",
-		  "dar": 25,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Chaos Sorcerer/\nGran Sorcerer",
-		  "item": "Sting Tip",
+		  "item": "Diska of Liberator",
 		  "dar": 25,
 		  "rare": "1.56250"
 		},
 		{
+		  "target": "Chaos Sorcerer/\nGran Sorcerer",
+		  "item": "Diska of Braveman",
+		  "dar": 25,
+		  "rare": "2.73438"
+		},
+		{
 		  "target": "Gol Dragon/\nGol Dragon",
-		  "item": "Phoenix Claw",
+		  "item": "Guilty Light",
 		  "dar": 100,
-		  "rare": "4.29688"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Merillia/\nMerillia",
-		  "item": "L&K14 Combat",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Meriltas/\nMeriltas",
-		  "item": "Fatsia",
+		  "item": "M&A60 Vise",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gee/\nGee",
-		  "item": "Diska of Braveman",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gi Gue/\nGi Gue",
-		  "item": "Gi Gue's Body",
+		  "item": "Attribute Plate",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericarol/\nMericarol",
-		  "item": "Asuka",
+		  "item": "Diska of Liberator",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Merikle/\nMerikle",
-		  "item": "Yasminkov 7000V",
+		  "item": "Yamato",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Mericus/\nMericus",
-		  "item": "Handgun: Guld",
+		  "item": "Fatsia",
 		  "dar": 80,
-		  "rare": "0.00610"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Ul Gibbon/\nUl Gibbon",
-		  "item": "Diska of Braveman",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Zol Gibbon/\nZol Gibbon",
-		  "item": "Diska of Braveman",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "1.56250"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Gibbles/\nGibbles",
-		  "item": "Lavis Cannon",
+		  "item": "Victor Axe",
 		  "dar": 80,
-		  "rare": "0.00992"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "Sinow Berill/\nSinow Berill",
-		  "item": "Wedding Dress",
+		  "item": "Diska of Liberator",
 		  "dar": 40,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Spigell/\nSinow Spigell",
-		  "item": "Berill Photon",
+		  "item": "Mahu",
 		  "dar": 45,
-		  "rare": "0.09766"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Gal Gryphon/\nGal Gryphon",
-		  "item": "Heavenly/TP",
+		  "item": "Mahu",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "9.37500"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Dolmolm/\nDolmolm",
-		  "item": "Spirit Garment",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Dolmdarl/\nDolmdarl",
-		  "item": "Stink Frame",
+		  "item": "Diska of Liberator",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Morfos/\nMorfos",
-		  "item": "Sting Tip",
+		  "item": "Stink Frame",
 		  "dar": 40,
-		  "rare": "1.17188"
-		},
-		{
-		  "target": "Recon/\nRecon",
-		  "item": "L&K14 Combat",
-		  "dar": 10,
 		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zoa/\nSinow Zoa",
-		  "item": "Heaven Striker",
+		  "item": "Diska of Liberator",
 		  "dar": 30,
-		  "rare": "0.14648"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Sinow Zele/\nSinow Zele",
-		  "item": "Yamigarasu",
+		  "item": "L&K14 Combat",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Deldepth/\nDeldepth",
-		  "item": "Crimson Coat",
+		  "item": "Spirit Garment",
 		  "dar": 40,
-		  "rare": "0.13428"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Delbiter/\nDelbiter",
-		  "item": "Rika's Claw",
+		  "item": "Sting Tip",
 		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Olga Flow/\nOlga Flow",
-		  "item": "D-Photon Core",
-		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "2.73438"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Ill Gill/\nIll Gill",
-		  "item": "V502",
+		  "item": "Diska of Braveman",
 		  "dar": 40,
-		  "rare": "0.12207"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Del Lily/\nDel Lily",
-		  "item": "Psycho Wand",
+		  "item": "L&K14 Combat",
 		  "dar": 35,
-		  "rare": "0.00095"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Epsilon/\nEpsilon",
-		  "item": "Rika's Claw",
+		  "item": "Diska of Braveman",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		}
 	  ]
 	},
@@ -6077,170 +5777,170 @@
 	  "Viridia": [
 		{
 		  "target": "Boota",
-		  "item": "Kusanagi",
+		  "item": "Select Cloak",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ze Boota",
-		  "item": "Ano Bazooka",
+		  "item": "Cursed Cloak",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.13428"
 		},
 		{
 		  "target": "Ba Boota",
-		  "item": "Red Odoshi Domaru",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "0.68359"
 		},
 		{
 		  "target": "Dorphon",
-		  "item": "Gratia",
+		  "item": "Red Scorpio",
 		  "dar": 80,
-		  "rare": "0.29297"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Dorphon Eclair",
-		  "item": "Lame d'Argent",
+		  "item": "God/Battle",
 		  "dar": 100,
-		  "rare": "31.25000"
+		  "rare": "50.00000"
 		},
 		{
 		  "target": "Sand Rappy",
-		  "item": "Lieutenant Gear",
+		  "item": "Rappy's Beak",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Del Rappy",
-		  "item": "Heavenly/Legs",
+		  "item": "Heavenly/Body",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Satellite Lizard",
-		  "item": "Rianov 303SNR-4",
+		  "item": "Alliance Uniform",
 		  "dar": 30,
-		  "rare": "0.34180"
+		  "rare": "0.48828"
 		},
 		{
 		  "target": "Yowie",
-		  "item": "Photon Crystal",
+		  "item": "Officer Uniform",
 		  "dar": 45,
-		  "rare": "0.29297"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Zu",
-		  "item": "Final Impact",
+		  "item": "Photon Crystal",
 		  "dar": 80,
-		  "rare": "0.68359"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Pazuzu",
-		  "item": "L&K38 Combat",
+		  "item": "Rianov 303SNR",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Astark",
-		  "item": "Yata Mirror",
+		  "item": "Snake Spire",
 		  "dar": 85,
-		  "rare": "0.29297"
+		  "rare": "0.26855"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Goran",
-		  "item": "Flame Visit",
+		  "item": "Ano Bazooka",
 		  "dar": 30,
 		  "rare": "0.31738"
 		},
 		{
 		  "target": "Pyro Goran",
-		  "item": "Lieutenant Mantle",
+		  "item": "Commander Uniform",
 		  "dar": 35,
-		  "rare": "0.17090"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Goran Detonator",
-		  "item": "Liberta Kit",
+		  "item": "Infantry Gear",
 		  "dar": 35,
-		  "rare": "0.12207"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Merissa A",
-		  "item": "Final Impact",
+		  "item": "Heavenly/Legs",
 		  "dar": 27,
-		  "rare": "1.75781"
+		  "rare": "0.63477"
 		},
 		{
 		  "target": "Merissa AA",
-		  "item": "Rage d'Ame",
+		  "item": "Maguwa",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Girtablulu",
-		  "item": "Limiter",
+		  "item": "Heaven Striker Coat",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Saint Million",
-		  "item": "Crimson Coat",
+		  "item": "Revival Cuirass",
 		  "dar": 100,
-		  "rare": "2.53906"
+		  "rare": "6.25000"
 		},
 		{
 		  "target": "Shambertin",
 		  "item": "Dragon Scale",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Kondrieu",
-		  "item": "Centurion/Ability",
+		  "item": "Phoenix Claw",
 		  "dar": 100,
-		  "rare": "25.00000"
+		  "rare": "50.00000"
 		}
 	  ],
 	  "Greenill": [
 		{
 		  "target": "Boota",
-		  "item": "Tanegashima",
+		  "item": "Visk-235W",
 		  "dar": 30,
-		  "rare": "0.58594"
+		  "rare": "0.87891"
 		},
 		{
 		  "target": "Ze Boota",
-		  "item": "Ano Bazooka",
+		  "item": "Alliance Uniform",
 		  "dar": 38,
 		  "rare": "0.31738"
 		},
 		{
 		  "target": "Ba Boota",
-		  "item": "Red Odoshi Domaru",
+		  "item": "Bloody Art",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.07422"
 		},
 		{
 		  "target": "Dorphon",
-		  "item": "Black Hound Cuirass",
+		  "item": "Guilty Light",
 		  "dar": 80,
-		  "rare": "0.39063"
+		  "rare": "2.53906"
 		},
 		{
 		  "target": "Dorphon Eclair",
-		  "item": "Cannon Rouge",
+		  "item": "Holy Ray",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Sand Rappy",
-		  "item": "Star Cuirass",
+		  "item": "Rappy's Beak",
 		  "dar": 100,
-		  "rare": "0.08545"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Del Rappy",
@@ -6250,31 +5950,31 @@
 		},
 		{
 		  "target": "Satellite Lizard",
-		  "item": "Photon Crystal",
+		  "item": "Heavenly/Arms",
 		  "dar": 30,
-		  "rare": "0.39063"
+		  "rare": "0.13428"
 		},
 		{
 		  "target": "Yowie",
-		  "item": "Snake Spire",
+		  "item": "Officer Uniform",
 		  "dar": 45,
-		  "rare": "0.48828"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Zu",
-		  "item": "V101",
+		  "item": "Cure/Paralysis",
 		  "dar": 80,
-		  "rare": "0.06104"
+		  "rare": "0.53711"
 		},
 		{
 		  "target": "Pazuzu",
-		  "item": "Rianov 303SNR-5",
+		  "item": "Rianov 303SNR",
 		  "dar": 100,
-		  "rare": "31.25000"
+		  "rare": "50.00000"
 		},
 		{
 		  "target": "Astark",
-		  "item": "Sacred Duster",
+		  "item": "Infantry Mantle",
 		  "dar": 85,
 		  "rare": "0.26855"
 		},
@@ -6283,784 +5983,129 @@
 		},
 		{
 		  "target": "Goran",
-		  "item": "Justy-23ST",
+		  "item": "Commander Uniform",
 		  "dar": 30,
-		  "rare": "1.56250"
+		  "rare": "0.34180"
 		},
 		{
 		  "target": "Pyro Goran",
-		  "item": "Heaven Striker",
+		  "item": "Ano Bazooka",
 		  "dar": 35,
-		  "rare": "0.08545"
+		  "rare": "0.26855"
 		},
 		{
 		  "target": "Goran Detonator",
-		  "item": "Flame Garment",
+		  "item": "Photon Crystal",
 		  "dar": 35,
-		  "rare": "0.39063"
+		  "rare": "1.07422"
 		},
 		{
 		  "target": "Merissa A",
-		  "item": "Striker Plus",
+		  "item": "Regenerate Gear B.P.",
 		  "dar": 27,
 		  "rare": "0.34180"
 		},
 		{
 		  "target": "Merissa AA",
-		  "item": "Heavenly/Power",
+		  "item": "Snake Spire",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Girtablulu",
-		  "item": "Gratia",
+		  "item": "Maguwa",
 		  "dar": 80,
-		  "rare": "0.63477"
+		  "rare": "10.15625"
 		},
 		{
 		  "target": "Saint Million",
-		  "item": "Galatine",
+		  "item": "Revival Cuirass",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "6.25000"
 		},
 		{
 		  "target": "Shambertin",
 		  "item": "Dragon Scale",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Kondrieu",
-		  "item": "Centurion/Ability",
+		  "item": "Glide Divine",
 		  "dar": 100,
-		  "rare": "25.00000"
+		  "rare": "50.00000"
 		}
 	  ],
 	  "Skyly": [
 		{
 		  "target": "Boota",
-		  "item": "Kusanagi",
+		  "item": "Stag Cutlery",
 		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ze Boota",
-		  "item": "Divine Protection",
-		  "dar": 38,
-		  "rare": "0.26855"
-		},
-		{
-		  "target": "Ba Boota",
-		  "item": "Dragon Slayer",
-		  "dar": 35,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Lame d'Argent",
-		  "dar": 80,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Dorphon Eclair",
-		  "item": "Blue Odoshi Violet Nimaidou",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Sand Rappy",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Del Rappy",
-		  "item": "Heavenly/Body",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Satellite Lizard",
-		  "item": "Photon Crystal",
-		  "dar": 30,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Snake Spire",
-		  "dar": 45,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Zu",
-		  "item": "Heavenly/Mind",
-		  "dar": 80,
-		  "rare": "0.13428"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "Girasole",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Astark",
-		  "item": "Yasakani Magatama",
-		  "dar": 85,
-		  "rare": "0.26855"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Goran",
-		  "item": "Chain Sawd",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pyro Goran",
-		  "item": "Black Odoshi Red Nimaidou",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Goran Detonator",
-		  "item": "Liberta Kit",
-		  "dar": 35,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Merissa A",
-		  "item": "Yata Mirror",
-		  "dar": 27,
-		  "rare": "0.58594"
-		},
-		{
-		  "target": "Merissa AA",
-		  "item": "Flamberge",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Girtablulu",
-		  "item": "Blue Odoshi Violet Nimaidou",
-		  "dar": 80,
-		  "rare": "0.63477"
-		},
-		{
-		  "target": "Saint Million",
-		  "item": "Heart of Laconium Axe",
-		  "dar": 100,
 		  "rare": "0.78125"
 		},
 		{
-		  "target": "Shambertin",
-		  "item": "Dragon Scale",
-		  "dar": 100,
-		  "rare": "2.14844"
-		},
-		{
-		  "target": "Kondrieu",
-		  "item": "Centurion/Ability",
-		  "dar": 100,
-		  "rare": "25.00000"
-		}
-	  ],
-	  "Bluefull": [
-		{
-		  "target": "Boota",
-		  "item": "Vjaya",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
 		  "target": "Ze Boota",
-		  "item": "Rianov 303SNR-2",
+		  "item": "Durandal",
 		  "dar": 38,
-		  "rare": "0.31738"
+		  "rare": "0.68359"
 		},
 		{
 		  "target": "Ba Boota",
-		  "item": "Black Hound Cuirass",
+		  "item": "Commander Uniform",
 		  "dar": 35,
-		  "rare": "0.26855"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "Dorphon",
-		  "item": "Heavenly/HP",
+		  "item": "Cursed Cloak",
 		  "dar": 80,
-		  "rare": "0.29297"
+		  "rare": "0.06714"
 		},
 		{
 		  "target": "Dorphon Eclair",
-		  "item": "Asteron Belt",
+		  "item": "Chain Sawd",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Sand Rappy",
-		  "item": "Maguwa",
+		  "item": "Infantry Mantle",
 		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Del Rappy",
-		  "item": "Heavenly/Body",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Satellite Lizard",
-		  "item": "Photon Crystal",
-		  "dar": 30,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Girasole",
-		  "dar": 45,
-		  "rare": "0.24414"
-		},
-		{
-		  "target": "Zu",
-		  "item": "Smartlink",
-		  "dar": 80,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "Ophelie Seize",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Astark",
-		  "item": "Limiter",
-		  "dar": 85,
-		  "rare": "0.04883"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Goran",
-		  "item": "Lieutenant Mantle",
-		  "dar": 30,
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Pyro Goran",
-		  "item": "Congeal Cloak",
-		  "dar": 35,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Goran Detonator",
-		  "item": "Berdysh",
-		  "dar": 35,
-		  "rare": "0.63477"
-		},
-		{
-		  "target": "Merissa A",
-		  "item": "Vjaya",
-		  "dar": 27,
-		  "rare": "1.75781"
-		},
-		{
-		  "target": "Merissa AA",
-		  "item": "Flamberge",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Girtablulu",
-		  "item": "Nei's Claw",
-		  "dar": 80,
-		  "rare": "0.01526"
-		},
-		{
-		  "target": "Saint Million",
-		  "item": "Siren Glass Hammer",
-		  "dar": 100,
-		  "rare": "3.12500"
-		},
-		{
-		  "target": "Shambertin",
-		  "item": "Dragon Scale",
-		  "dar": 100,
-		  "rare": "2.14844"
-		},
-		{
-		  "target": "Kondrieu",
-		  "item": "Mother Garb+",
-		  "dar": 100,
-		  "rare": "25.00000"
-		}
-	  ],
-	  "Purplenum": [
-		{
-		  "target": "Boota",
-		  "item": "Divine Protection",
-		  "dar": 30,
-		  "rare": "0.26855"
-		},
-		{
-		  "target": "Ze Boota",
-		  "item": "M&A60 Vise",
-		  "dar": 38,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Ba Boota",
-		  "item": "Red Odoshi Domaru",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Heavenly/Battle",
-		  "dar": 80,
-		  "rare": "0.43945"
-		},
-		{
-		  "target": "Dorphon Eclair",
-		  "item": "Rage de Feu",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Sand Rappy",
-		  "item": "Star Cuirass",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
 		  "target": "Del Rappy",
-		  "item": "Heavenly/Luck",
+		  "item": "Rianov 303SNR",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Satellite Lizard",
-		  "item": "Glide Divine",
+		  "item": "Alliance Uniform",
 		  "dar": 30,
-		  "rare": "0.34180"
+		  "rare": "0.48828"
 		},
 		{
 		  "target": "Yowie",
-		  "item": "Photon Crystal",
-		  "dar": 45,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "Zu",
-		  "item": "Smartlink",
-		  "dar": 80,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "V801",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Astark",
-		  "item": "Yata Mirror",
-		  "dar": 85,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Goran",
-		  "item": "Yasminkov 9000M",
-		  "dar": 30,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Pyro Goran",
-		  "item": "Tempest Cloak",
-		  "dar": 35,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Goran Detonator",
-		  "item": "Guard Wave",
-		  "dar": 35,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Merissa A",
-		  "item": "M&A60 Vise",
-		  "dar": 27,
-		  "rare": "1.75781"
-		},
-		{
-		  "target": "Merissa AA",
-		  "item": "Ophelie Seize",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Girtablulu",
-		  "item": "Phonon Maser",
-		  "dar": 80,
-		  "rare": "0.78125"
-		},
-		{
-		  "target": "Saint Million",
-		  "item": "Heavenly/Ability",
-		  "dar": 100,
-		  "rare": "2.53906"
-		},
-		{
-		  "target": "Shambertin",
-		  "item": "Dragon Scale",
-		  "dar": 100,
-		  "rare": "2.14844"
-		},
-		{
-		  "target": "Kondrieu",
-		  "item": "Heaven Striker",
-		  "dar": 100,
-		  "rare": "12.50000"
-		}
-	  ],
-	  "Pinkal": [
-		{
-		  "target": "Boota",
-		  "item": "Black Odoshi Domaru",
-		  "dar": 30,
-		  "rare": "0.43945"
-		},
-		{
-		  "target": "Ze Boota",
-		  "item": "Rianov 303SNR-3",
-		  "dar": 38,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ba Boota",
-		  "item": "Earth Wand: Brownie",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Heavenly/HP",
-		  "dar": 80,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "Dorphon Eclair",
-		  "item": "Clio",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Sand Rappy",
-		  "item": "Maguwa",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Del Rappy",
-		  "item": "Heavenly/Body",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Satellite Lizard",
-		  "item": "Glide Divine",
-		  "dar": 30,
-		  "rare": "0.34180"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Photon Crystal",
-		  "dar": 45,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "Zu",
-		  "item": "V801",
-		  "dar": 80,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "Kunai",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Astark",
-		  "item": "Heavenly/Mind",
-		  "dar": 85,
-		  "rare": "0.13428"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Goran",
-		  "item": "Guardianna",
-		  "dar": 30,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Pyro Goran",
-		  "item": "Mother Garb",
-		  "dar": 35,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Goran Detonator",
-		  "item": "Solferino",
-		  "dar": 35,
-		  "rare": "0.63477"
-		},
-		{
-		  "target": "Merissa A",
-		  "item": "Slicer of Fanatic",
-		  "dar": 27,
-		  "rare": "0.26855"
-		},
-		{
-		  "target": "Merissa AA",
-		  "item": "Ophelie Seize",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Girtablulu",
-		  "item": "Limiter",
-		  "dar": 80,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Saint Million",
-		  "item": "Rupika",
-		  "dar": 100,
-		  "rare": "3.12500"
-		},
-		{
-		  "target": "Shambertin",
-		  "item": "Dragon Scale",
-		  "dar": 100,
-		  "rare": "2.14844"
-		},
-		{
-		  "target": "Kondrieu",
-		  "item": "Mother Garb+",
-		  "dar": 100,
-		  "rare": "25.00000"
-		}
-	  ],
-	  "Redria": [
-		{
-		  "target": "Boota",
-		  "item": "Black Odoshi Domaru",
-		  "dar": 30,
-		  "rare": "0.43945"
-		},
-		{
-		  "target": "Ze Boota",
-		  "item": "Diska of Braveman",
-		  "dar": 38,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Ba Boota",
-		  "item": "Cannon Rouge",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Heavenly/Battle",
-		  "dar": 80,
-		  "rare": "0.43945"
-		},
-		{
-		  "target": "Dorphon Eclair",
-		  "item": "Crimson Coat",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Sand Rappy",
-		  "item": "Lieutenant Gear",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Del Rappy",
-		  "item": "Heavenly/Legs",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Satellite Lizard",
-		  "item": "Photon Crystal",
-		  "dar": 30,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Snake Spire",
+		  "item": "Kaladbolg",
 		  "dar": 45,
 		  "rare": "0.48828"
 		},
 		{
 		  "target": "Zu",
-		  "item": "Heavenly/Mind",
+		  "item": "Snake Spire",
 		  "dar": 80,
-		  "rare": "0.13428"
+		  "rare": "0.48828"
 		},
 		{
 		  "target": "Pazuzu",
-		  "item": "Rage de Feu",
+		  "item": "God/Battle",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Astark",
-		  "item": "Striker Plus",
-		  "dar": 85,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "SEPARATOR"
-		},
-		{
-		  "target": "Goran",
-		  "item": "Stag Cutlery",
-		  "dar": 30,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Pyro Goran",
-		  "item": "Heaven Striker",
-		  "dar": 35,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "Goran Detonator",
-		  "item": "Diska of Braveman",
-		  "dar": 35,
-		  "rare": "1.56250"
-		},
-		{
-		  "target": "Merissa A",
-		  "item": "Diska of Liberator",
-		  "dar": 27,
-		  "rare": "1.75781"
-		},
-		{
-		  "target": "Merissa AA",
-		  "item": "Flamberge",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Girtablulu",
-		  "item": "Gratia",
-		  "dar": 80,
-		  "rare": "0.63477"
-		},
-		{
-		  "target": "Saint Million",
-		  "item": "Heavenly/Ability",
-		  "dar": 100,
-		  "rare": "2.53906"
-		},
-		{
-		  "target": "Shambertin",
-		  "item": "Dragon Scale",
-		  "dar": 100,
-		  "rare": "2.14844"
-		},
-		{
-		  "target": "Kondrieu",
-		  "item": "Centurion/Ability",
-		  "dar": 100,
-		  "rare": "25.00000"
-		}
-	  ],
-	  "Oran": [
-		{
-		  "target": "Boota",
-		  "item": "Invisible Guard",
-		  "dar": 30,
-		  "rare": "0.07935"
-		},
-		{
-		  "target": "Ze Boota",
-		  "item": "Morning Prayer",
-		  "dar": 38,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "Ba Boota",
-		  "item": "Red Odoshi Domaru",
-		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Heavenly/Battle",
-		  "dar": 80,
-		  "rare": "0.43945"
-		},
-		{
-		  "target": "Dorphon Eclair",
-		  "item": "Blue Odoshi Violet Nimaidou",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Sand Rappy",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Del Rappy",
-		  "item": "Heavenly/Legs",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Satellite Lizard",
-		  "item": "Slicer of Fanatic",
-		  "dar": 30,
-		  "rare": "0.26855"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Photon Crystal",
-		  "dar": 45,
-		  "rare": "0.29297"
-		},
-		{
-		  "target": "Zu",
-		  "item": "V801",
-		  "dar": 80,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "Kunai",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
-		  "target": "Astark",
-		  "item": "Musashi",
+		  "item": "Last Survivor",
 		  "dar": 85,
 		  "rare": "0.53711"
 		},
@@ -7069,260 +6114,653 @@
 		},
 		{
 		  "target": "Goran",
-		  "item": "Zero Divide",
+		  "item": "Infantry Gear",
 		  "dar": 30,
-		  "rare": "0.21973"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Pyro Goran",
-		  "item": "Cursed Cloak",
+		  "item": "Ano Bazooka",
 		  "dar": 35,
-		  "rare": "0.17090"
+		  "rare": "0.26855"
 		},
 		{
 		  "target": "Goran Detonator",
-		  "item": "Lieutenant Mantle",
+		  "item": "Tempest Cloak",
 		  "dar": 35,
-		  "rare": "0.39063"
+		  "rare": "0.14648"
 		},
 		{
 		  "target": "Merissa A",
-		  "item": "Flapjack Flapper",
+		  "item": "Heavenly/Legs",
 		  "dar": 27,
-		  "rare": "0.34180"
+		  "rare": "0.63477"
 		},
 		{
 		  "target": "Merissa AA",
-		  "item": "Ophelie Seize",
+		  "item": "Heart of The Sigh of a God",
 		  "dar": 100,
-		  "rare": "50.00000"
+		  "rare": "4.68750"
 		},
 		{
 		  "target": "Girtablulu",
-		  "item": "Syncesta",
+		  "item": "Stink Shield",
 		  "dar": 80,
-		  "rare": "0.10986"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Saint Million",
-		  "item": "Rupika",
+		  "item": "Spirit Cuirass",
 		  "dar": 100,
-		  "rare": "3.12500"
+		  "rare": "6.25000"
 		},
 		{
 		  "target": "Shambertin",
 		  "item": "Dragon Scale",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Kondrieu",
-		  "item": "Lame d'Argent",
+		  "item": "Kusanagi",
 		  "dar": 100,
-		  "rare": "12.50000"
+		  "rare": "50.00000"
 		}
 	  ],
-	  "Yellowboze": [
+	  "Bluefull": [
 		{
 		  "target": "Boota",
-		  "item": "Tanegashima",
+		  "item": "Gae Bolg",
 		  "dar": 30,
-		  "rare": "0.58594"
+		  "rare": "0.87891"
 		},
 		{
 		  "target": "Ze Boota",
-		  "item": "Photon Filter",
+		  "item": "Asuka",
 		  "dar": 38,
-		  "rare": "0.07935"
+		  "rare": "0.68359"
 		},
 		{
 		  "target": "Ba Boota",
-		  "item": "Red Odoshi Domaru",
+		  "item": "Photon Crystal",
 		  "dar": 35,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Dorphon",
-		  "item": "Black Hound Cuirass",
-		  "dar": 80,
 		  "rare": "0.39063"
 		},
 		{
+		  "target": "Dorphon",
+		  "item": "Select Cloak",
+		  "dar": 80,
+		  "rare": "0.06714"
+		},
+		{
 		  "target": "Dorphon Eclair",
-		  "item": "Cannon Rouge",
+		  "item": "Cure/Confuse",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Sand Rappy",
-		  "item": "Maguwa",
+		  "item": "Rappy's Beak",
 		  "dar": 100,
-		  "rare": "0.17090"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Del Rappy",
+		  "item": "Ignition Cloak",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Heavenly/Arms",
+		  "dar": 30,
+		  "rare": "0.13428"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Photon Crystal",
+		  "dar": 45,
+		  "rare": "0.63477"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Congeal Cloak",
+		  "dar": 80,
+		  "rare": "0.07935"
+		},
+		{
+		  "target": "Pazuzu",
 		  "item": "Heavenly/Luck",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Satellite Lizard",
-		  "item": "Photon Crystal",
-		  "dar": 30,
-		  "rare": "0.39063"
-		},
-		{
-		  "target": "Yowie",
-		  "item": "Rianov 303SNR-1",
-		  "dar": 45,
-		  "rare": "0.48828"
-		},
-		{
-		  "target": "Zu",
-		  "item": "Heavenly/Power",
-		  "dar": 80,
-		  "rare": "0.13428"
-		},
-		{
-		  "target": "Pazuzu",
-		  "item": "Girasole",
-		  "dar": 100,
-		  "rare": "50.00000"
-		},
-		{
 		  "target": "Astark",
-		  "item": "Striker Plus",
+		  "item": "Caduceus",
 		  "dar": 85,
-		  "rare": "0.17090"
+		  "rare": "0.31738"
 		},
 		{
 		  "target": "SEPARATOR"
 		},
 		{
 		  "target": "Goran",
-		  "item": "Lieutenant Mantle",
+		  "item": "Angry Fist",
 		  "dar": 30,
-		  "rare": "0.19531"
+		  "rare": "1.26953"
 		},
 		{
 		  "target": "Pyro Goran",
-		  "item": "Select Cloak",
+		  "item": "Ano Bazooka",
 		  "dar": 35,
-		  "rare": "0.17090"
+		  "rare": "0.26855"
 		},
 		{
 		  "target": "Goran Detonator",
-		  "item": "Asuka",
+		  "item": "Magic Rock \"Moola\"",
 		  "dar": 35,
-		  "rare": "0.63477"
+		  "rare": "0.68359"
 		},
 		{
 		  "target": "Merissa A",
-		  "item": "Morning Glory",
+		  "item": "Vjaya",
 		  "dar": 27,
-		  "rare": "0.34180"
+		  "rare": "0.97656"
 		},
 		{
 		  "target": "Merissa AA",
-		  "item": "Flamberge",
+		  "item": "Maguwa",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Girtablulu",
-		  "item": "Swordsman Lore",
+		  "item": "Heaven Striker Coat",
 		  "dar": 80,
-		  "rare": "0.31738"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Saint Million",
-		  "item": "Galatine",
+		  "item": "Revival Cuirass",
 		  "dar": 100,
-		  "rare": "1.56250"
+		  "rare": "6.25000"
 		},
 		{
 		  "target": "Shambertin",
 		  "item": "Dragon Scale",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Kondrieu",
-		  "item": "Daylight Scar",
+		  "item": "Rianov 303SNR",
 		  "dar": 100,
-		  "rare": "12.50000"
+		  "rare": "50.00000"
 		}
 	  ],
-	  "Whitill": [
+	  "Purplenum": [
 		{
 		  "target": "Boota",
-		  "item": "Kusanagi",
+		  "item": "H&S25 Justice",
 		  "dar": 30,
-		  "rare": "0.31738"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Ze Boota",
-		  "item": "Morning Prayer",
+		  "item": "Yamato",
 		  "dar": 38,
-		  "rare": "0.29297"
+		  "rare": "0.87891"
 		},
 		{
 		  "target": "Ba Boota",
-		  "item": "Thirteen",
+		  "item": "Double Saber",
 		  "dar": 35,
-		  "rare": "0.31738"
+		  "rare": "1.75781"
 		},
 		{
 		  "target": "Dorphon",
-		  "item": "Black Hound Cuirass",
+		  "item": "Select Cloak",
 		  "dar": 80,
-		  "rare": "0.39063"
+		  "rare": "0.06714"
 		},
 		{
 		  "target": "Dorphon Eclair",
-		  "item": "Liberta Kit",
+		  "item": "Heavenly/Power",
 		  "dar": 100,
-		  "rare": "25.00000"
+		  "rare": "50.00000"
 		},
 		{
 		  "target": "Sand Rappy",
-		  "item": "Lieutenant Gear",
+		  "item": "Rappy's Beak",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.19531"
 		},
 		{
 		  "target": "Del Rappy",
-		  "item": "Heavenly/Luck",
+		  "item": "Rianov 303SNR",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Satellite Lizard",
-		  "item": "Morning Glory",
+		  "item": "Alliance Uniform",
 		  "dar": 30,
-		  "rare": "0.34180"
+		  "rare": "0.48828"
 		},
 		{
 		  "target": "Yowie",
 		  "item": "Photon Crystal",
 		  "dar": 45,
-		  "rare": "0.29297"
+		  "rare": "0.63477"
 		},
 		{
 		  "target": "Zu",
-		  "item": "Diska of Braveman",
+		  "item": "Snake Spire",
 		  "dar": 80,
-		  "rare": "0.68359"
+		  "rare": "0.48828"
 		},
 		{
 		  "target": "Pazuzu",
-		  "item": "Ophelie Seize",
+		  "item": "God/Battle",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Astark",
-		  "item": "Yasakani Magatama",
+		  "item": "Bloody Art",
+		  "dar": 85,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Goran",
+		  "item": "Alliance Uniform",
+		  "dar": 30,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Pyro Goran",
+		  "item": "Tyrell's Parasol",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Goran Detonator",
+		  "item": "Heavenly/Legs",
+		  "dar": 35,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Merissa A",
+		  "item": "Infantry Gear",
+		  "dar": 27,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Merissa AA",
+		  "item": "Maguwa",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Girtablulu",
+		  "item": "Stink Shield",
+		  "dar": 80,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Saint Million",
+		  "item": "Spirit Cuirass",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Shambertin",
+		  "item": "Dragon Scale",
+		  "dar": 100,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Kondrieu",
+		  "item": "Rianov 303SNR",
+		  "dar": 100,
+		  "rare": "50.00000"
+		}
+	  ],
+	  "Pinkal": [
+		{
+		  "target": "Boota",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Ze Boota",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 38,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Ba Boota",
+		  "item": "Storm Wand: Indra",
+		  "dar": 35,
+		  "rare": "1.07422"
+		},
+		{
+		  "target": "Dorphon",
+		  "item": "Cursed Cloak",
+		  "dar": 80,
+		  "rare": "0.06714"
+		},
+		{
+		  "target": "Dorphon Eclair",
+		  "item": "Heavenly/Mind",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Sand Rappy",
+		  "item": "Infantry Mantle",
+		  "dar": 100,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Del Rappy",
+		  "item": "Heavenly/Body",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Mace of Adaman",
+		  "dar": 30,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Battle Verge",
+		  "dar": 45,
+		  "rare": "0.58594"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Congeal Cloak",
+		  "dar": 80,
+		  "rare": "0.07935"
+		},
+		{
+		  "target": "Pazuzu",
+		  "item": "Heavenly/Luck",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Astark",
+		  "item": "Caduceus",
+		  "dar": 85,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Goran",
+		  "item": "Alliance Uniform",
+		  "dar": 30,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Pyro Goran",
+		  "item": "Tyrell's Parasol",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Goran Detonator",
+		  "item": "Photon Claw",
+		  "dar": 35,
+		  "rare": "3.51563"
+		},
+		{
+		  "target": "Merissa A",
+		  "item": "Infantry Gear",
+		  "dar": 27,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Merissa AA",
+		  "item": "Spirit Cuirass",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Girtablulu",
+		  "item": "Stink Shield",
+		  "dar": 80,
+		  "rare": "0.78125"
+		},
+		{
+		  "target": "Saint Million",
+		  "item": "Spirit Cuirass",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Shambertin",
+		  "item": "Dragon Scale",
+		  "dar": 100,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Kondrieu",
+		  "item": "Glide Divine",
+		  "dar": 100,
+		  "rare": "50.00000"
+		}
+	  ],
+	  "Redria": [
+		{
+		  "target": "Boota",
+		  "item": "Slicer of Assassin",
+		  "dar": 30,
+		  "rare": "0.87891"
+		},
+		{
+		  "target": "Ze Boota",
+		  "item": "Diska of Liberator",
+		  "dar": 38,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Ba Boota",
+		  "item": "Select Cloak",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Dorphon",
+		  "item": "Cursed Cloak",
+		  "dar": 80,
+		  "rare": "0.06714"
+		},
+		{
+		  "target": "Dorphon Eclair",
+		  "item": "Heart of Diska of Liberator",
+		  "dar": 100,
+		  "rare": "10.15625"
+		},
+		{
+		  "target": "Sand Rappy",
+		  "item": "Infantry Mantle",
+		  "dar": 100,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Del Rappy",
+		  "item": "Rianov 303SNR",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Heavenly/Arms",
+		  "dar": 30,
+		  "rare": "0.13428"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Officer Uniform",
+		  "dar": 45,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Snake Spire",
+		  "dar": 80,
+		  "rare": "0.48828"
+		},
+		{
+		  "target": "Pazuzu",
+		  "item": "Tanegashima",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Astark",
+		  "item": "Mahu",
+		  "dar": 85,
+		  "rare": "0.43945"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Goran",
+		  "item": "Infantry Gear",
+		  "dar": 30,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Pyro Goran",
+		  "item": "Tyrell's Parasol",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Goran Detonator",
+		  "item": "Diska of Braveman",
+		  "dar": 35,
+		  "rare": "1.95313"
+		},
+		{
+		  "target": "Merissa A",
+		  "item": "Photon Crystal",
+		  "dar": 27,
+		  "rare": "0.43945"
+		},
+		{
+		  "target": "Merissa AA",
+		  "item": "Cure/Paralysis",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Girtablulu",
+		  "item": "Heaven Striker Coat",
+		  "dar": 80,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Saint Million",
+		  "item": "Spirit Cuirass",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Shambertin",
+		  "item": "Dragon Scale",
+		  "dar": 100,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Kondrieu",
+		  "item": "Asuka",
+		  "dar": 100,
+		  "rare": "50.00000"
+		}
+	  ],
+	  "Oran": [
+		{
+		  "target": "Boota",
+		  "item": "Blade Dance",
+		  "dar": 30,
+		  "rare": "0.87891"
+		},
+		{
+		  "target": "Ze Boota",
+		  "item": "Congeal Cloak",
+		  "dar": 38,
+		  "rare": "0.13428"
+		},
+		{
+		  "target": "Ba Boota",
+		  "item": "Asuka",
+		  "dar": 35,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Dorphon",
+		  "item": "Select Cloak",
+		  "dar": 80,
+		  "rare": "0.06714"
+		},
+		{
+		  "target": "Dorphon Eclair",
+		  "item": "Photon Crystal",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Sand Rappy",
+		  "item": "Rappy's Beak",
+		  "dar": 100,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Del Rappy",
+		  "item": "Ignition Cloak",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Alliance Uniform",
+		  "dar": 30,
+		  "rare": "0.48828"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Officer Uniform",
+		  "dar": 45,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Angry Fist",
+		  "dar": 80,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Pazuzu",
+		  "item": "Heavenly/Luck",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Astark",
+		  "item": "Infantry Mantle",
 		  "dar": 85,
 		  "rare": "0.26855"
 		},
@@ -7331,57 +6769,319 @@
 		},
 		{
 		  "target": "Goran",
-		  "item": "Slicer of Fanatic",
+		  "item": "Cross Scar",
 		  "dar": 30,
-		  "rare": "0.21973"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Pyro Goran",
-		  "item": "Pioneer Parts",
+		  "item": "Yamato",
 		  "dar": 35,
-		  "rare": "0.14648"
+		  "rare": "1.26953"
 		},
 		{
 		  "target": "Goran Detonator",
-		  "item": "Lieutenant Mantle",
+		  "item": "Heart of Plantain Huge Fan",
 		  "dar": 35,
-		  "rare": "0.39063"
+		  "rare": "0.04272"
 		},
 		{
 		  "target": "Merissa A",
-		  "item": "Diska of Braveman",
+		  "item": "Infantry Gear",
 		  "dar": 27,
-		  "rare": "1.75781"
+		  "rare": "0.68359"
 		},
 		{
 		  "target": "Merissa AA",
-		  "item": "Flamberge",
+		  "item": "Maguwa",
 		  "dar": 100,
 		  "rare": "50.00000"
 		},
 		{
 		  "target": "Girtablulu",
-		  "item": "Rage d'Ame",
+		  "item": "Stink Shield",
 		  "dar": 80,
-		  "rare": "0.63477"
+		  "rare": "0.78125"
 		},
 		{
 		  "target": "Saint Million",
-		  "item": "Heart of Samba Maracas",
+		  "item": "Revival Cuirass",
 		  "dar": 100,
-		  "rare": "0.78125"
+		  "rare": "6.25000"
 		},
 		{
 		  "target": "Shambertin",
 		  "item": "Dragon Scale",
 		  "dar": 100,
-		  "rare": "2.14844"
+		  "rare": "1.56250"
 		},
 		{
 		  "target": "Kondrieu",
-		  "item": "Limiter",
+		  "item": "Asuka",
 		  "dar": 100,
-		  "rare": "12.50000"
+		  "rare": "50.00000"
+		}
+	  ],
+	  "Yellowboze": [
+		{
+		  "target": "Boota",
+		  "item": "Heavenly/Body",
+		  "dar": 30,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Ze Boota",
+		  "item": "Infantry Mantle",
+		  "dar": 38,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Ba Boota",
+		  "item": "Asuka",
+		  "dar": 35,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Dorphon",
+		  "item": "Tempest Cloak",
+		  "dar": 80,
+		  "rare": "0.06714"
+		},
+		{
+		  "target": "Dorphon Eclair",
+		  "item": "Congeal Cloak",
+		  "dar": 100,
+		  "rare": "15.62500"
+		},
+		{
+		  "target": "Sand Rappy",
+		  "item": "Rappy's Beak",
+		  "dar": 100,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Del Rappy",
+		  "item": "Ignition Cloak",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Alliance Uniform",
+		  "dar": 30,
+		  "rare": "0.48828"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Officer Uniform",
+		  "dar": 45,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Photon Crystal",
+		  "dar": 80,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Pazuzu",
+		  "item": "Rianov 303SNR",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Astark",
+		  "item": "Heavenly/Arms",
+		  "dar": 85,
+		  "rare": "0.10986"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Goran",
+		  "item": "Bravace",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pyro Goran",
+		  "item": "Tyrell's Parasol",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Goran Detonator",
+		  "item": "Magic Rock \"Moola\"",
+		  "dar": 35,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Merissa A",
+		  "item": "Infantry Gear",
+		  "dar": 27,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Merissa AA",
+		  "item": "Maguwa",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Girtablulu",
+		  "item": "Heaven Striker Coat",
+		  "dar": 80,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Saint Million",
+		  "item": "Revival Cuirass",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Shambertin",
+		  "item": "Dragon Scale",
+		  "dar": 100,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Kondrieu",
+		  "item": "Kusanagi",
+		  "dar": 100,
+		  "rare": "50.00000"
+		}
+	  ],
+	  "Whitill": [
+		{
+		  "target": "Boota",
+		  "item": "Congeal Cloak",
+		  "dar": 30,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Ze Boota",
+		  "item": "Slicer of Assassin",
+		  "dar": 38,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Ba Boota",
+		  "item": "Tempest Cloak",
+		  "dar": 35,
+		  "rare": "0.14648"
+		},
+		{
+		  "target": "Dorphon",
+		  "item": "Photon Crystal",
+		  "dar": 80,
+		  "rare": "0.63477"
+		},
+		{
+		  "target": "Dorphon Eclair",
+		  "item": "Heavenly/Body",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Sand Rappy",
+		  "item": "Rappy's Beak",
+		  "dar": 100,
+		  "rare": "0.19531"
+		},
+		{
+		  "target": "Del Rappy",
+		  "item": "Rianov 303SNR",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Satellite Lizard",
+		  "item": "Alliance Uniform",
+		  "dar": 30,
+		  "rare": "0.48828"
+		},
+		{
+		  "target": "Yowie",
+		  "item": "Officer Uniform",
+		  "dar": 45,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Zu",
+		  "item": "Snake Spire",
+		  "dar": 80,
+		  "rare": "0.48828"
+		},
+		{
+		  "target": "Pazuzu",
+		  "item": "Tanegashima",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Astark",
+		  "item": "Diska of Liberator",
+		  "dar": 85,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "SEPARATOR"
+		},
+		{
+		  "target": "Goran",
+		  "item": "Diska of Braveman",
+		  "dar": 30,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Pyro Goran",
+		  "item": "L&K14 Combat",
+		  "dar": 35,
+		  "rare": "1.36719"
+		},
+		{
+		  "target": "Goran Detonator",
+		  "item": "Infantry Mantle",
+		  "dar": 35,
+		  "rare": "0.34180"
+		},
+		{
+		  "target": "Merissa A",
+		  "item": "Infantry Gear",
+		  "dar": 27,
+		  "rare": "0.68359"
+		},
+		{
+		  "target": "Merissa AA",
+		  "item": "Revival Cuirass",
+		  "dar": 100,
+		  "rare": "50.00000"
+		},
+		{
+		  "target": "Girtablulu",
+		  "item": "Heaven Striker Coat",
+		  "dar": 80,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Saint Million",
+		  "item": "Spirit Cuirass",
+		  "dar": 100,
+		  "rare": "6.25000"
+		},
+		{
+		  "target": "Shambertin",
+		  "item": "Dragon Scale",
+		  "dar": 100,
+		  "rare": "1.56250"
+		},
+		{
+		  "target": "Kondrieu",
+		  "item": "Phoenix Claw",
+		  "dar": 100,
+		  "rare": "50.00000"
 		}
 	  ]
 	},
@@ -7389,1511 +7089,1529 @@
 	  "Viridia": [
 		{
 		  "target": "Forest 1",
-		  "item": "Meteor Smash",
+		  "item": "Amplifier of Resta",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Meteor Smash",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Vjaya",
+		  "item": "Crush Bullet",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "Berdys",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Amplifier of Foie",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Amplifier of Barta",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Meteor Smash",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Crush Bullet",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Meteor Smash",
+		  "target": "Cave 3",
+		  "item": "Gungnir",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Final Impact",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Vjaya",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Final Impact",
+		  "item": "Meteor Smash",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Vjaya",
+		  "item": "Brionac",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ruins 1",
-		  "item": "Final Impact",
+		  "item": "Amplifier of Rabarta",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 1",
+		  "item": "Blue Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Final Impact",
+		  "item": "Amplifier of Rafoie",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Red Barrier",
+		  "item": "Recovery Barrier",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
 		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Final Impact",
+		  "item": "Meteor Smash",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Gae Bolg",
+		  "item": "Brionac",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Greenill": [
 		{
-		  "target": "Forest 1",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
 		  "target": "Forest 2",
-		  "item": "Wals-MK2",
+		  "item": "Visk-235W",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Bloody Art",
+		  "item": "Edge",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Amplifier of Barta",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Wals-MK2",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Visk-235W",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Wals-MK2",
+		  "target": "Cave 3",
+		  "item": "Ripper",
 		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Justy-23ST",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bloody Art",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Justy-23ST",
+		  "item": "Wals-MK2",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bloody Art",
+		  "item": "Blade Dance",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Ruins 1",
+		  "target": "Mine 2",
 		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.17090"
 		},
 		{
-		  "target": "Ruins 2",
-		  "item": "Justy-23ST",
+		  "target": "Ruins 1",
+		  "item": "Amplifier of Rabarta",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Ruins 3",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
+		  "target": "Ruins 1",
 		  "item": "Amplifier of Blue",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Wals-MK2",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Skyly": [
 		{
-		  "target": "Forest 1",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
 		  "target": "Forest 2",
-		  "item": "Last Survivor",
+		  "item": "Flowen's Sword",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Wals-MK2",
+		  "item": "Beam",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
+		  "item": "Club of Laconium",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Last Survivor",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Flowen's Sword",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Last Survivor",
+		  "target": "Cave 3",
+		  "item": "Laser",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Dragon Slayer",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Wals-MK2",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Red Barrier",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Dragon Slayer",
+		  "item": "Last Survivor",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Wals-MK2",
+		  "item": "Visk-235W",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Ruins 1",
 		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "Dragon Slayer",
+		  "target": "Ruins 2",
+		  "item": "Amplifier of Rafoie",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Ruins 1",
+		  "target": "Ruins 2",
 		  "item": "Amplifier of Red",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Dragon Slayer",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Dragon Slayer",
+		  "item": "Last Survivor",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Justy-23ST",
+		  "item": "Visk-235W",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Bluefull": [
 		{
 		  "target": "Forest 1",
-		  "item": "Vjaya",
+		  "item": "Amplifier of Zonde",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Forest 1",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Vjaya",
+		  "item": "Brionac",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Brave Hammer",
+		  "item": "Pillar",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Amplifier of Foie",
+		  "item": "Club of Laconium",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Vjaya",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Brionac",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Vjaya",
+		  "target": "Cave 3",
+		  "item": "Striker",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Gae Bolg",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Brave Hammer",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Amplifier of Gizonde",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Gae Bolg",
+		  "target": "Mine 1",
+		  "item": "Amplifier of Gifoie",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Brave Hammer",
+		  "item": "Vjaya",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Battle Verge",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "Gae Bolg",
+		  "target": "Mine 2",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Gae Bolg",
+		  "item": "Amplifier of Rafoie",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Red Barrier",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Gae Bolg",
+		  "item": "Vjaya",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Alive Aqhu",
+		  "item": "Battle Verge",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Purplenum": [
 		{
 		  "target": "Forest 1",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Cave 1",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Cave 1",
 		  "item": "Amplifier of Zonde",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Forest 1",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Edge",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Cave 2",
-		  "item": "H&S25 Justice",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "L&K14 Combat",
+		  "item": "M&A60 Vise",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bloody Art",
+		  "item": "Ripper",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
+		  "target": "Mine 1",
 		  "item": "Yellow Barrier",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "L&K14 Combat",
+		  "target": "Mine 2",
+		  "item": "H&S25 Justice",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Amplifier of Razonde",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Ruins 1",
+		  "item": "Amplifier of Rabarta",
+		  "dar": 100,
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "L&K14 Combat",
+		  "item": "Recovery Barrier",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "L&K14 Combat",
+		  "item": "H&S25 Justice",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Cross Scar",
+		  "item": "Blade Dance",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Pinkal": [
 		{
-		  "target": "Forest 1",
-		  "item": "Ice Staff: Dagon",
+		  "target": "Forest 2",
+		  "item": "Fire Scepter: Agni",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.17090"
 		},
 		{
-		  "target": "Forest 1",
+		  "target": "Forest 2",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
 		  "item": "Amplifier of Barta",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Ice Staff: Dagon",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Amplifier of Foie",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Ice Staff: Dagon",
+		  "item": "Amplifier of Anti",
 		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Cave 1",
-		  "item": "Amplifier of Zonde",
-		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Cave 2",
-		  "item": "Ice Staff: Dagon",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "Amplifier of Gizonde",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Amplifier of Gifoie",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 1",
 		  "item": "Amplifier of Gibarta",
 		  "dar": 100,
-		  "rare": "0.17090"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Mine 1",
-		  "item": "Recovery Barrier",
+		  "target": "Cave 2",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.17090"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Mine 1",
+		  "target": "Cave 3",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Amplifier of Gizonde",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
 		  "item": "Red Barrier",
 		  "dar": 100,
-		  "rare": "0.17090"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Storm Wand: Indra",
+		  "target": "Mine 1",
+		  "item": "Amplifier of Gifoie",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Amplifier of Rabarta",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
+		  "target": "Mine 1",
 		  "item": "Yellow Barrier",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Ruins 1",
-		  "item": "Amplifier of Rafoie",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Ruins 1",
-		  "item": "Amplifier of Red",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Amplifier of Razonde",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Amplifier of Yellow",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Redria": [
-		{
-		  "target": "Forest 1",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Diska of Liberator",
+		  "target": "Mine 2",
+		  "item": "Ice Staff: Dagon",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Forest 2",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
+		  "target": "Mine 2",
 		  "item": "Mace of Adaman",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Cave 1",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Cave 1",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "Diska of Braveman",
+		  "target": "Mine 2",
+		  "item": "Amplifier of Razonde",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Ruins 1",
+		  "item": "Amplifier of Blue",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Redria": [
+		{
+		  "target": "Forest 2",
+		  "item": "Sawcer",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Launcher",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Diska",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Arms",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Mine 1",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Diska of Braveman",
+		  "item": "Slicer of Assassin",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Crush Bullet",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Yellow Barrier",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mine 2",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ruins 1",
-		  "item": "Diska of Braveman",
+		  "item": "Blue Barrier",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 1",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 2",
 		  "item": "Amplifier of Red",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Diska of Braveman",
+		  "item": "Recovery Barrier",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "Ruins 2",
+		  "target": "Ruins 3",
+		  "item": "Slicer of Assassin",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Crush Bullet",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
 		  "item": "Amplifier of Yellow",
 		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Oran": [
 		{
 		  "target": "Forest 1",
-		  "item": "Bloody Art",
+		  "item": "Amplifier of Zonde",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Forest 1",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "Blade Dance",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "Claymore",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Amplifier of Foie",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Club of Laconium",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Bloody Art",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Blade Dance",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Bloody Art",
+		  "target": "Cave 3",
+		  "item": "Calibur",
 		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Cave 2",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Cross Scar",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Last Survivor",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Amplifier of Gizonde",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Red Barrier",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Cross Scar",
+		  "target": "Mine 1",
+		  "item": "Amplifier of Gifoie",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Last Survivor",
+		  "item": "Bloody Art",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "Flowen's Sword",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Ruins 1",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 2",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Yellowboze": [
-		{
-		  "target": "Forest 2",
 		  "item": "Kaladbolg",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Forest 2",
+		  "target": "Mine 2",
 		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Forest 2",
+		  "target": "Mine 2",
 		  "item": "Mace of Adaman",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Forest 2",
+		  "target": "Mine 2",
 		  "item": "AddSlot",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "Cave 2",
+		  "target": "Ruins 2",
+		  "item": "Recovery Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 2",
 		  "item": "AddSlot",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Blue Barrier",
+		  "target": "Ruins 3",
+		  "item": "Bloody Art",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Flowen's Sword",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Yellowboze": [
+		{
+		  "target": "Forest 1",
+		  "item": "AddSlot",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
+		  "target": "Forest 2",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 1",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "Crush Bullet",
+		  "dar": 100,
+		  "rare": "0.31738"
+		},
+		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Club of Laconium",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
@@ -8905,1289 +8623,385 @@
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "target": "Mine 1",
+		  "item": "Flowen's Sword",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Blue Barrier",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Yellow Barrier",
+		  "item": "Amplifier of Deband",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Yellow Barrier",
+		  "item": "Battle Verge",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ruins 1",
-		  "item": "AddSlot",
+		  "item": "Amplifier of Blue",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 1",
+		  "item": "Blue Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 1",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Ruins 2",
 		  "item": "Amplifier of Red",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Amplifier of Yellow",
+		  "item": "Recovery Barrier",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Red Barrier",
+		  "item": "Visk-235W",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Amplifier of Blue",
+		  "item": "Slicer of Assassin",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		}
 	  ],
 	  "Whitill": [
 		{
-		  "target": "Forest 1",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
 		  "target": "Forest 2",
-		  "item": "Diska of Liberator",
+		  "item": "Slicer of Assassin",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "H&S25 Justice",
+		  "item": "Gatling",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Kaladbolg",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Custom Ray ver.OO",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Forest 2",
-		  "item": "Mace of Adaman",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Forest 2",
+		  "item": "Amplifier of Barta",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "Cave 1",
-		  "item": "Diska of Liberator",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "Amplifier of Gibarta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 2",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Cave 3",
+		  "item": "Slicer of Assassin",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "Cave 2",
-		  "item": "Diska of Liberator",
+		  "target": "Cave 3",
+		  "item": "Vulcan",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Diska of Braveman",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "H&S25 Justice",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Cave 3",
-		  "item": "Bravace",
+		  "item": "Red Barrier",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Cave 3",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Mine 1",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "Assist Barrier",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 1",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "Mine 2",
 		  "item": "Mag",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Mine 2",
-		  "item": "Diska of Braveman",
+		  "target": "Mine 1",
+		  "item": "Amplifier of Gifoie",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "H&S25 Justice",
+		  "item": "Diska of Liberator",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Durandal",
+		  "item": "M&A60 Vise",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Bravace",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Club of Zumiuran",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mine 2",
-		  "item": "Assist Barrier",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.68357"
+		  "rare": "0.17090"
 		},
 		{
-		  "target": "Ruins 1",
-		  "item": "Diska of Braveman",
+		  "target": "Mine 2",
+		  "item": "Amplifier of Deband",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Ruins 2",
-		  "item": "Diska of Braveman",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Diska of Braveman",
+		  "item": "Diska of Liberator",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "L&K14 Combat",
+		  "item": "M&A60 Vise",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Durandal",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Bravace",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Ruins 3",
-		  "item": "Club of Zumiuran",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Ruins 3",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
 		}
 	  ]
 	},
 	"EPISODE 2 Boxes": {
 	  "Viridia": [
 		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Meteor Smash",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
 		  "target": "VR Temple: Beta",
-		  "item": "Meteor Smash",
+		  "item": "Crush Bullet",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "VR Temple: Beta",
-		  "item": "Vjaya",
+		  "item": "Berdys",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
+		  "item": "DB's Saber",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "VR Temple: Beta",
-		  "item": "Amplifier of Barta",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Meteor Smash",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Meteor Smash",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Final Impact",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Greenill": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Wals-MK2",
+		  "item": "Varista",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
 		  "target": "VR Temple: Beta",
-		  "item": "Bloody Art",
+		  "item": "Club of Laconium",
 		  "dar": 100,
 		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Skyly": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Wals-MK2",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Amplifier of Red",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Justy-23ST",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Bluefull": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Amplifier of Zonde",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Brave Hammer",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Brave Hammer",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Brave Hammer",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Alive Aqhu",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Purplenum": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Amplifier of Zonde",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "L&K14 Combat",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Pinkal": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Ice Staff: Dagon",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Amplifier of Zonde",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Ice Staff: Dagon",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Amplifier of Barta",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Ice Staff: Dagon",
-		  "dar": 100,
-		  "rare": "0.21973"
 		},
 		{
 		  "target": "VR Spaceship: Alpha",
 		  "item": "Amplifier of Foie",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.08545"
 		},
 		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Ice Staff: Dagon",
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Anti",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "VR Spaceship: Beta",
 		  "item": "Amplifier of Gibarta",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Storm Wand: Indra",
+		  "item": "Crush Bullet",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Vjaya",
+		  "item": "Gungnir",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Amplifier of Gizonde",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
 		  "item": "Red Barrier",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle East",
 		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Storm Wand: Indra",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
@@ -10198,168 +9012,162 @@
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
 		  "target": "Mountain",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Vjaya",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Amplifier of Razonde",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Amplifier of Rabarta",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Amplifier of Rafoie",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Amplifier of Red",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Storm Wand: Indra",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Gae Bolg",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Amplifier of Yellow",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Redria": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Diska of Liberator",
+		  "item": "Meteor Smash",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
 		  "item": "Kaladbolg",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
 		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
 		  "item": "Mace of Adaman",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Meteor Smash",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
 		  "item": "Assist Barrier",
 		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Greenill": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Visk-235W",
+		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Diska of Liberator",
+		  "target": "VR Temple: Beta",
+		  "item": "Edge",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Beta",
+		  "item": "Amplifier of Gibarta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Beta",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Visk-235W",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Diska of Liberator",
+		  "target": "Jungle North",
+		  "item": "Ripper",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Diska of Braveman",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Durandal",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Bravace",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle East",
@@ -10368,392 +9176,40 @@
 		  "rare": "0.68357"
 		},
 		{
-		  "target": "Jungle East",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
 		  "target": "Mountain",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Blue Barrier",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Amplifier of Red",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Diska of Braveman",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Amplifier of Yellow",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Oran": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Amplifier of Zonde",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Bloody Art",
+		  "item": "Wals-MK2",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
-		  "item": "Last Survivor",
+		  "target": "Mountain",
+		  "item": "Blade Dance",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
 		  "item": "Kaladbolg",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
 		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Temple: Beta",
+		  "target": "Mountain",
 		  "item": "Mace of Adaman",
 		  "dar": 100,
 		  "rare": "0.17090"
 		},
 		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Bloody Art",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
 		  "target": "Mountain",
-		  "item": "Cross Scar",
+		  "item": "Amplifier of Deband",
 		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Last Survivor",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.21973"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.26856"
-		},
-		{
-		  "target": "Seabed: Upper Levels",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Cross Scar",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Dragon Slayer",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.31738"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.31738"
-		}
-	  ],
-	  "Yellowboze": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.08545"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "AddSlot",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.09766"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Mag",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Jungle East",
-		  "item": "Yellow Barrier",
-		  "dar": 100,
-		  "rare": "0.68357"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.12207"
-		},
-		{
-		  "target": "Seaside / CCA",
-		  "item": "Amplifier of Blue",
-		  "dar": 100,
-		  "rare": "0.08545"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Seaside / CCA",
@@ -10762,138 +9218,132 @@
 		  "rare": "0.08545"
 		},
 		{
-		  "target": "Seabed: Upper Levels",
+		  "target": "Seaside / CCA",
 		  "item": "AddSlot",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Seabed: Upper Levels",
-		  "item": "Amplifier of Red",
+		  "item": "Recovery Barrier",
 		  "dar": 100,
 		  "rare": "0.08545"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
-		  "dar": 100,
-		  "rare": "0.14648"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
-		  "dar": 100,
-		  "rare": "0.14648"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.14648"
-		},
-		{
-		  "target": "Seabed: Lower Levels",
-		  "item": "Amplifier of Yellow",
-		  "dar": 100,
-		  "rare": "0.14648"
-		}
-	  ],
-	  "Whitill": [
-		{
-		  "target": "VR Temple: Alpha",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Diska of Liberator",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "H&S25 Justice",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Kaladbolg",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Custom Ray ver.OO",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Temple: Beta",
-		  "item": "Mace of Adaman",
-		  "dar": 100,
-		  "rare": "0.17090"
-		},
-		{
-		  "target": "VR Spaceship: Alpha",
-		  "item": "Diska of Liberator",
+		  "item": "Wals-MK2",
 		  "dar": 100,
 		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Skyly": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Flowen's Sword",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Beam",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "VR Spaceship: Alpha",
 		  "item": "Amplifier of Foie",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "VR Spaceship: Alpha",
-		  "item": "Blue Barrier",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Flowen's Sword",
 		  "dar": 100,
 		  "rare": "0.21973"
 		},
 		{
-		  "target": "VR Spaceship: Beta",
-		  "item": "Diska of Liberator",
+		  "target": "Jungle North",
+		  "item": "Laser",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Diska of Braveman",
+		  "item": "DB's Saber",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "H&S25 Justice",
+		  "item": "Varista",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Durandal",
+		  "item": "Club of Laconium",
 		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle North",
-		  "item": "Bravace",
+		  "item": "AddSlot",
 		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Club of Zumiuran",
-		  "dar": 100,
-		  "rare": "0.15869"
-		},
-		{
-		  "target": "Jungle North",
-		  "item": "Red Barrier",
-		  "dar": 100,
-		  "rare": "0.15869"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Jungle East",
@@ -10903,81 +9353,1355 @@
 		},
 		{
 		  "target": "Jungle East",
-		  "item": "Diska of Braveman",
+		  "item": "Amplifier of Gifoie",
 		  "dar": 100,
 		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mountain",
-		  "item": "Diska of Braveman",
+		  "item": "Last Survivor",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Visk-235W",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Recovery Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Last Survivor",
 		  "dar": 100,
 		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Visk-235W",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Bluefull": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Pillar",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Foie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Striker",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Red Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Yellow Barrier",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Vjaya",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Battle Verge",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Amplifier of Razonde",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Recovery Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Vjaya",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Battle Verge",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Purplenum": [
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Edge",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Amplifier of Barta",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Beta",
+		  "item": "Amplifier of Gibarta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Ripper",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Amplifier of Gizonde",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.68357"
 		},
 		{
 		  "target": "Mountain",
 		  "item": "H&S25 Justice",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mountain",
-		  "item": "Durandal",
+		  "item": "Blade Dance",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mountain",
-		  "item": "Bravace",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Mountain",
-		  "item": "Club of Zumiuran",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.21973"
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
 		},
 		{
 		  "target": "Seaside / CCA",
-		  "item": "Diska of Braveman",
+		  "item": "Blue Barrier",
 		  "dar": 100,
-		  "rare": "0.26856"
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "H&S25 Justice",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Pinkal": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Zonde",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Berdys",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Foie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Gungnir",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "Amplifier of Rabarta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "Blue Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
 		},
 		{
 		  "target": "Seabed: Upper Levels",
-		  "item": "Diska of Braveman",
+		  "item": "Amplifier of Rafoie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Amplifier of Red",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Recovery Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Ice Staff: Dagon",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Redria": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Sawcer",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Launcher",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Diska",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Arms",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Red Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Yellow Barrier",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Slicer of Assassin",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Crush Bullet",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Slicer of Assassin",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Crush Bullet",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Oran": [
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Claymore",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Foie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Anti",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Calibur",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Yellow Barrier",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Bloody Art",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Flowen's Sword",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Amplifier of Razonde",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Amplifier of Deband",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Amplifier of Rafoie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Bloody Art",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Flowen's Sword",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Assist Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Yellowboze": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Brionac",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Crush Bullet",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Flowen's Sword",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Beta",
+		  "item": "Battle Verge",
+		  "dar": 100,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Red Barrier",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Yellow Barrier",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Blade Dance",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "Visk-235W",
+		  "dar": 100,
+		  "rare": "0.31738"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Slicer of Assassin",
 		  "dar": 100,
 		  "rare": "0.31738"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "Diska of Braveman",
+		  "item": "Kaladbolg",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "L&K14 Combat",
+		  "item": "Custom Ray ver.OO",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "Durandal",
+		  "item": "Mace of Adaman",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "Bravace",
+		  "item": "Amplifier of Yellow",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
 		},
 		{
 		  "target": "Seabed: Lower Levels",
-		  "item": "Club of Zumiuran",
+		  "item": "Assist Barrier",
 		  "dar": 100,
-		  "rare": "0.31738"
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Fire Scepter: Agni",
+		  "dar": 100,
+		  "rare": "0.21973"
+		}
+	  ],
+	  "Whitill": [
+		{
+		  "target": "VR Temple: Alpha",
+		  "item": "Amplifier of Resta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Slicer of Assassin",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Gatling",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Temple: Beta",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Foie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "VR Spaceship: Alpha",
+		  "item": "Amplifier of Shifta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Slicer of Assassin",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Vulcan",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "DB's Saber",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Varista",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle North",
+		  "item": "Club of Laconium",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Jungle East",
+		  "item": "Mag",
+		  "dar": 100,
+		  "rare": "0.68357"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Diska of Liberator",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Mountain",
+		  "item": "AddSlot",
+		  "dar": 100,
+		  "rare": "0.17090"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "Amplifier of Rabarta",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seaside / CCA",
+		  "item": "Blue Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Amplifier of Rafoie",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Upper Levels",
+		  "item": "Recovery Barrier",
+		  "dar": 100,
+		  "rare": "0.08545"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Diska of Liberator",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "M&A60 Vise",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Kaladbolg",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Custom Ray ver.OO",
+		  "dar": 100,
+		  "rare": "0.21973"
+		},
+		{
+		  "target": "Seabed: Lower Levels",
+		  "item": "Mace of Adaman",
+		  "dar": 100,
+		  "rare": "0.21973"
 		}
 	  ]
 	},
@@ -10985,1101 +10709,561 @@
 	  "Viridia": [
 		{
 		  "target": "Crater East",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Greenill": [
 		{
 		  "target": "Crater East",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Skyly": [
 		{
 		  "target": "Crater East",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Bluefull": [
 		{
 		  "target": "Crater East",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Purplenum": [
 		{
 		  "target": "Crater East",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Pinkal": [
 		{
 		  "target": "Crater East",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Redria": [
 		{
 		  "target": "Crater East",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Oran": [
 		{
 		  "target": "Crater East",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Yellowboze": [
 		{
 		  "target": "Crater East",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Thirteen",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ],
 	  "Whitill": [
 		{
 		  "target": "Crater East",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater East",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater West",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater West",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater South",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater South",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater North",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater North",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Crater Int.",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Crater Int.",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 1",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 1",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 2",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 2",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Desert 3",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Desert 3",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
-		},
-		{
-		  "target": "Boss",
-		  "item": "Red Coat",
-		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		},
 		{
 		  "target": "Boss",
 		  "item": "Photon Crystal",
 		  "dar": 100,
-		  "rare": "0.05493"
+		  "rare": "0.06104"
 		}
 	  ]
 	}
