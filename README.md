@@ -6,6 +6,10 @@
     - Make the difficulty selectable  
     - Change enemy names when ultimate is selected???
 
+  - Save selected section ID as default, to be used in next page load
+
+  - Editable dar & rar rates to factor in events / HBR boosts
+
   - Add box drops to quest pages
   
   - Chance an item will drop during the quest & or per floor (when all enemies killed)  
