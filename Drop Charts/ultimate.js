@@ -14,7 +14,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Gae Bolg",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -158,7 +158,7 @@ const ultimate = {
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Final Impact",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -295,7 +295,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Mahu",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -439,7 +439,7 @@ const ultimate = {
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Yasminkov 3000R",
 		  "dar": 30,
 		  "rare": "0.31738"
@@ -576,7 +576,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Dragon Slayer",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -720,7 +720,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Justy-23ST",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -857,7 +857,7 @@ const ultimate = {
 		  "rare": "0.48828"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Gae Bolg",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -1001,7 +1001,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Vjaya",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -1138,7 +1138,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Cross Scar",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -1282,7 +1282,7 @@ const ultimate = {
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Flowen's Sword (3073)",
 		  "dar": 30,
 		  "rare": "0.00992"
@@ -1419,7 +1419,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Storm Wand: Indra",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -1563,7 +1563,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Heart of Izmaela",
 		  "dar": 30,
 		  "rare": "0.03662"
@@ -1700,7 +1700,7 @@ const ultimate = {
 		  "rare": "4.68750"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Mahu",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -1844,7 +1844,7 @@ const ultimate = {
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Heart of Sorcerer's Cane",
 		  "dar": 30,
 		  "rare": "0.03662"
@@ -1981,7 +1981,7 @@ const ultimate = {
 		  "rare": "4.68750"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Cross Scar",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -2125,7 +2125,7 @@ const ultimate = {
 		  "rare": "0.00992"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "S-Parts ver2.01",
 		  "dar": 30,
 		  "rare": "0.03052"
@@ -2262,7 +2262,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Dragon Slayer",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -2406,7 +2406,7 @@ const ultimate = {
 		  "rare": "0.19531"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Gae Bolg",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -2543,7 +2543,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Diska of Braveman",
 		  "dar": 25,
 		  "rare": "0.31738"
@@ -2687,7 +2687,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "L&K14 Combat",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -2826,7 +2826,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Final Impact",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -2949,7 +2949,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Heavenly/Power",
 		  "dar": 30,
 		  "rare": "0.31738"
@@ -3152,7 +3152,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Justy-23ST",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -3275,7 +3275,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Cross Scar",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -3478,7 +3478,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Justy-23ST",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -3601,7 +3601,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Agito (1975)",
 		  "dar": 30,
 		  "rare": "0.00992"
@@ -3804,7 +3804,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Gae Bolg",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -3927,7 +3927,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Guilty Light",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -4130,7 +4130,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "L&K14 Combat",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -4253,7 +4253,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Anti Android Rifle",
 		  "dar": 30,
 		  "rare": "0.31738"
@@ -4456,7 +4456,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Storm Wand: Indra",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -4579,7 +4579,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Liberta Kit",
 		  "dar": 30,
 		  "rare": "0.07935"
@@ -4782,7 +4782,7 @@ const ultimate = {
 		  "rare": "4.68750"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Diska of Braveman",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -4905,7 +4905,7 @@ const ultimate = {
 		  "rare": "0.08545"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Electro Frame",
 		  "dar": 30,
 		  "rare": "0.31738"
@@ -5108,7 +5108,7 @@ const ultimate = {
 		  "rare": "4.68750"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Cross Scar",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -5231,7 +5231,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Sting Tip",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -5434,7 +5434,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "Bravace",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -5557,7 +5557,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Gae Bolg",
 		  "dar": 30,
 		  "rare": "1.56250"
@@ -5760,7 +5760,7 @@ const ultimate = {
 		  "rare": "50.00000"
 		},
 		{
-		  "target": "Mothmant/\nMothvert",
+		  "target": "Mothmant/\nMonest",
 		  "item": "L&K14 Combat",
 		  "dar": 20,
 		  "rare": "0.31738"
@@ -5883,7 +5883,7 @@ const ultimate = {
 		  "rare": "1.56250"
 		},
 		{
-		  "target": "Gilchic/\nGilchich",
+		  "target": "Gillchic/\nGillchich",
 		  "item": "Electro Frame",
 		  "dar": 30,
 		  "rare": "0.31738"
@@ -6187,7 +6187,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Crimson Coat",
 		  "dar": 100,
 		  "rare": "2.53906"
@@ -6318,7 +6318,7 @@ const ultimate = {
 		  "rare": "0.63477"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Galatine",
 		  "dar": 100,
 		  "rare": "1.56250"
@@ -6449,7 +6449,7 @@ const ultimate = {
 		  "rare": "0.63477"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Heart of Laconium Axe",
 		  "dar": 100,
 		  "rare": "0.78125"
@@ -6580,7 +6580,7 @@ const ultimate = {
 		  "rare": "0.01526"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Siren Glass Hammer",
 		  "dar": 100,
 		  "rare": "3.12500"
@@ -6711,7 +6711,7 @@ const ultimate = {
 		  "rare": "0.78125"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Heavenly/Ability",
 		  "dar": 100,
 		  "rare": "2.53906"
@@ -6842,7 +6842,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Rupika",
 		  "dar": 100,
 		  "rare": "3.12500"
@@ -6973,7 +6973,7 @@ const ultimate = {
 		  "rare": "0.63477"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Heavenly/Ability",
 		  "dar": 100,
 		  "rare": "2.53906"
@@ -7104,7 +7104,7 @@ const ultimate = {
 		  "rare": "0.10986"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Rupika",
 		  "dar": 100,
 		  "rare": "3.12500"
@@ -7235,7 +7235,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Galatine",
 		  "dar": 100,
 		  "rare": "1.56250"
@@ -7366,7 +7366,7 @@ const ultimate = {
 		  "rare": "0.63477"
 		},
 		{
-		  "target": "Saint Million",
+		  "target": "Saint-Milion",
 		  "item": "Heart of Samba Maracas",
 		  "dar": 100,
 		  "rare": "0.78125"

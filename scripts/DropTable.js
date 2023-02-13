@@ -1,5 +1,5 @@
 const idList = ['Bluefull', 'Greenill', 'Oran', 'Pinkal', 'Purplenum', 'Redria', 'Skyly', 'Viridia', 'Yellowboze', 'Whitill'];
-const areaList = ['Forest', 'Cave', 'Mine', 'Ruins', 'VR Temple', 'VR Spaceship', 'Mountain', 'Central Control Area', 'Seabed', 'Control Tower', 'Crater', 'Desert', 'Bosses'];
+const areaList = ['Forest', 'Cave', 'Mine', 'Ruins', 'VR Temple', 'VR Spaceship', 'Mountain', 'Jungle', 'Seaside', 'Central Control Area', 'Seabed', 'Tower', 'Crater', 'Desert', 'Bosses', 'Meteor'];
 let areaTables = [];
 	
 tbodies = document.getElementsByTagName('tbody');
@@ -65,7 +65,7 @@ function addToTables() {
 					elTd.innerText = enemy.item + ' ' + getDropRate(enemy);
 					elTR.appendChild(elTd);
 					enemyInTable.push([enemy]);
-					break; // Here to prevent multiple matches with Dimenian. Also more efficient then letting it continue to loop.
+					break; // Prevent multiple matches with Dimenian. Also more efficient then letting it continue to loop.
 				}
 			};
 		};
