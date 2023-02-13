@@ -3081,7 +3081,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Maser Beam",
 		  "dar": 10,
 		  "rare": "0.31738"
@@ -3407,7 +3407,7 @@ const ultimate = {
 		  "rare": "0.00992"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Justy-23ST",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -3733,7 +3733,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Guilty Light",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -4059,7 +4059,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Twin Brand",
 		  "dar": 10,
 		  "rare": "0.31738"
@@ -4385,7 +4385,7 @@ const ultimate = {
 		  "rare": "0.09766"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "L&K14 Combat",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -4711,7 +4711,7 @@ const ultimate = {
 		  "rare": "0.09766"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Storm Wand: Indra",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -5037,7 +5037,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Stag Cutlery",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -5363,7 +5363,7 @@ const ultimate = {
 		  "rare": "0.09766"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Cross Scar",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -5689,7 +5689,7 @@ const ultimate = {
 		  "rare": "0.31738"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "Guilty Light",
 		  "dar": 10,
 		  "rare": "1.56250"
@@ -6015,7 +6015,7 @@ const ultimate = {
 		  "rare": "1.17188"
 		},
 		{
-		  "target": "Recon/\nRecon",
+		  "target": "Recon/\nRecobox",
 		  "item": "L&K14 Combat",
 		  "dar": 10,
 		  "rare": "1.56250"

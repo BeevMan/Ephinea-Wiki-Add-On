@@ -9,11 +9,11 @@
      "matches": ["https://wiki.pioneer2.net/*"],
 		 "run_at": "document_idle",
      "js": [
-			 "scripts/DropTable.js",
 			 "Drop Charts/ultimate.js",
 			 "Drop Charts/very-hard.js",
 			 "Drop Charts/hard.js",
-			 "Drop Charts/normal.js"
+			 "Drop Charts/normal.js",
+			 "scripts/DropTable.js"
 		 ]
    }
   ],

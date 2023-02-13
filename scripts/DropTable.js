@@ -1,16 +1,15 @@
-console.log('script active');
-
 const idList = ['Bluefull', 'Greenill', 'Oran', 'Pinkal', 'Purplenum', 'Redria', 'Skyly', 'Viridia', 'Yellowboze', 'Whitill'];
+const areaList = ['Forest', 'Cave', 'Mine', 'Ruins', 'VR Temple', 'VR Spaceship', 'Mountain', 'Central Control Area', 'Seabed', 'Control Tower', 'Crater', 'Desert', 'Bosses'];
+let areaTables = [];
+	
+tbodies = document.getElementsByTagName('tbody');
 
-const delay = setTimeout( async () => {
-	console.log('timeout function triggered');
-	console.log(ultimate[getEpisode()][getSectionID()]);
-
-  }, 1000);
-
-if (!isPageQuest()) {
-	clearTimeout(delay);
-	console.log('quest page not detected, canceled timeout');
+for (let i = 1; i < tbodies.length; i++ ) {
+	areaList.forEach((area) => {
+		if (tbodies[i].getElementsByTagName('th')[0].innerText.includes(area)) {
+			areaTables.push(tbodies[i]);
+		};
+	});
 };
 
 function isPageQuest() {
@@ -27,13 +26,12 @@ function isPageQuest() {
 		elSelect.add(option)
 	});
 	const elEnemyCounts = document.getElementById('Enemy_Counts');
+	elSelect.onchange = (event) => { addToTables() };
 	elEnemyCounts.append(elSelect);
 })();
 
 function getEpisode() {
 	const episode = document.getElementsByTagName('th')[1].innerText.toUpperCase()
-	//let episode = document.getElementsByTagName('th')[1].innerText.toLowerCase();
-	//episode = episode.charAt(0).toUpperCase() + episode.slice(1);
 	if (episode === 'EPISODE 1' || episode === 'EPISODE 2' || episode === 'EPISODE 4') {
 		return episode;
 	}
@@ -44,13 +42,41 @@ function getSectionID() {
 }
 
 function getEnemies() {
-
-};
-
-function getItems() {
-
+	const episode = getEpisode();
+	const sectionID = getSectionID();
+	return ultimate[episode][sectionID];
 };
 
 function addToTables() {
-	
+	const elDropTd = document.getElementsByClassName('drop');
+	while(elDropTd.length > 0){
+		elDropTd[0].remove();
+	};
+	areaTables.forEach((table) => {
+		const enemyList = getEnemies();
+		let enemyInTable = [];
+		for (let i = 0; i < table.children.length; i++) {
+			const elTR = table.children[i];
+			for (let j = 0; j < enemyList.length; j++) {
+				const enemy = enemyList[j];
+				if (enemy.target.includes(elTR.children[0].innerText)) {
+					let elTd = document.createElement('td');
+					elTd.className = 'drop';
+					elTd.innerText = enemy.item + ' ' + getDropRate(enemy);
+					elTR.appendChild(elTd);
+					enemyInTable.push([enemy]);
+					break; // Here to prevent multiple matches with Dimenian. Also more efficient then letting it continue to loop.
+				}
+			};
+		};
+	});
 };
+
+function getDropRate(item) {
+	const denom = 100 / (item.dar * parseFloat(item.rare) / 100);
+
+	// rounds to the 2nd decimal
+	let adjustedRate = ': 1/' + (Math.round(denom * 100) / 100).toString();
+	return adjustedRate;
+};
+addToTables();
