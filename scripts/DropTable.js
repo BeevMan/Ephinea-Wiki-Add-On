@@ -1,5 +1,5 @@
 const idList = ['Bluefull', 'Greenill', 'Oran', 'Pinkal', 'Purplenum', 'Redria', 'Skyly', 'Viridia', 'Yellowboze', 'Whitill'];
-const areaList = ['Forest', 'Cave', 'Mine', 'Ruins', 'VR Temple', 'VR Spaceship', 'Mountain', 'Jungle', 'Seaside', 'Central Control Area', 'Seabed', 'Tower', 'Crater', 'Desert', 'Bosses', 'Meteor'];
+const areaList = ['Forest', 'Cave', 'Mine', 'Ruins', 'VR Temple', 'Spaceship', 'Mountain', 'Jungle', 'Seaside', 'Central Control Area', 'Seabed', 'Tower', 'Crater', 'Desert', 'Bosses', 'Meteor', 'Palace', '???', 'Monitor Room', 'Underground Channel', 'Under the Dome'];
 let areaTables = [];
 	
 tbodies = document.getElementsByTagName('tbody');
@@ -17,7 +17,7 @@ function isPageQuest() {
 	return firstTh.innerHTML.includes('Quest icon.png');
 };
 
-(function addSectionIdSelect() {
+function addSectionIdSelect() {
 	const elSelect = document.createElement("select");
 	elSelect.id = 'section-id';
 	elSelect.name = 'section-id';
@@ -28,7 +28,11 @@ function isPageQuest() {
 	const elEnemyCounts = document.getElementById('Enemy_Counts');
 	elSelect.onchange = (event) => { addToTables() };
 	elEnemyCounts.append(elSelect);
-})();
+};
+
+if (isPageQuest()) {
+	addSectionIdSelect();
+};
 
 function getEpisode() {
 	const episode = document.getElementsByTagName('th')[1].innerText.toUpperCase()
