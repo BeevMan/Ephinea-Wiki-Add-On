@@ -21,8 +21,15 @@ function addSectionIdSelect() {
 	const elSelect = document.createElement("select");
 	elSelect.id = 'section-id';
 	elSelect.name = 'section-id';
+	// Need to use a library to use images in select elements
+	//let icon;
 	idList.forEach((id) => {
-		const option = new Option(id, id);
+		/*if (chrome.runtime){
+			icon = chrome.runtime.getURL('icons/48px-' + id + '_icon.png');
+		} else {
+			icon = browser.runtime.getURL('icons/48px-' + id + '_icon.png');
+		}*/
+		const option = new Option(id);
 		elSelect.add(option)
 	});
 	const elEnemyCounts = document.getElementById('Enemy_Counts');
@@ -66,7 +73,7 @@ function addToTables() {
 				if (enemy.target.includes(elTR.children[0].innerText)) {
 					let elTd = document.createElement('td');
 					elTd.className = 'drop';
-					elTd.innerText = enemy.item + ' ' + getDropRate(enemy);
+					elTd.innerHTML = '<a href="https://wiki.pioneer2.net/w/' + enemy.item + '">' + enemy.item + ' </a>' + ' ' + getDropRate(enemy);
 					elTR.appendChild(elTd);
 					enemyInTable.push([enemy]);
 					break; // Prevent multiple matches with Dimenian. Also more efficient then letting it continue to loop.
